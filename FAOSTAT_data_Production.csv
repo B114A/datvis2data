@@ -1,0 +1,3871 @@
+﻿Area,Item,Year,Value_Tonnes
+Afghanistan,Apples,2010,59850
+Afghanistan,Apples,2011,62041
+Afghanistan,Apples,2012,70000
+Afghanistan,Apples,2013,78597
+Afghanistan,Apples,2014,89403
+Afghanistan,Apples,2015,89733
+Afghanistan,Apples,2016,140903
+Afghanistan,Apples,2017,170443
+Afghanistan,Apples,2018,217192
+Afghanistan,Apples,2019,250324
+Afghanistan,Apples,2020,270857
+Afghanistan,Oranges,2010,2000
+Afghanistan,Oranges,2011,6000
+Afghanistan,Oranges,2012,6000
+Afghanistan,Oranges,2013,6320
+Afghanistan,Oranges,2014,6930
+Afghanistan,Oranges,2015,4926
+Afghanistan,Oranges,2016,5282
+Afghanistan,Oranges,2017,4483
+Afghanistan,Oranges,2018,5600
+Afghanistan,Oranges,2019,5783
+Afghanistan,Oranges,2020,3001
+Albania,Apples,2010,54604
+Albania,Apples,2011,64000
+Albania,Apples,2012,71300
+Albania,Apples,2013,75730
+Albania,Apples,2014,82060
+Albania,Apples,2015,91736
+Albania,Apples,2016,101532
+Albania,Apples,2017,96338
+Albania,Apples,2018,108375
+Albania,Apples,2019,105933
+Albania,Apples,2020,102167
+Albania,Oranges,2010,6631
+Albania,Oranges,2011,7100
+Albania,Oranges,2012,9120
+Albania,Oranges,2013,9665
+Albania,Oranges,2014,4120
+Albania,Oranges,2015,8347
+Albania,Oranges,2016,10063
+Albania,Oranges,2017,9130
+Albania,Oranges,2018,10779
+Albania,Oranges,2019,11556
+Albania,Oranges,2020,12436
+Algeria,Apples,2010,378637
+Algeria,Apples,2011,404105
+Algeria,Apples,2012,397529
+Algeria,Apples,2013,455937
+Algeria,Apples,2014,462815
+Algeria,Apples,2015,451472
+Algeria,Apples,2016,500855
+Algeria,Apples,2017,494239
+Algeria,Apples,2018,487808
+Algeria,Apples,2019,558830
+Algeria,Apples,2020,566824
+Algeria,Bananas,2010,227
+Algeria,Bananas,2011,277
+Algeria,Bananas,2012,335
+Algeria,Bananas,2013,335
+Algeria,Bananas,2014,305
+Algeria,Bananas,2015,155
+Algeria,Bananas,2016,265
+Algeria,Bananas,2017,242
+Algeria,Bananas,2018,221
+Algeria,Bananas,2019,243
+Algeria,Bananas,2020,235
+Algeria,Oranges,2010,582496
+Algeria,Oranges,2011,814740
+Algeria,Oranges,2012,802517
+Algeria,Oranges,2013,890674
+Algeria,Oranges,2014,955206
+Algeria,Oranges,2015,1005079
+Algeria,Oranges,2016,892764
+Algeria,Oranges,2017,1013951
+Algeria,Oranges,2018,1134194
+Algeria,Oranges,2019,1199535
+Algeria,Oranges,2020,1174845
+Angola,Bananas,2010,2047955
+Angola,Bananas,2011,2646073
+Angola,Bananas,2012,2991454
+Angola,Bananas,2013,3095013
+Angola,Bananas,2014,3483432
+Angola,Bananas,2015,3595306
+Angola,Bananas,2016,3718579
+Angola,Bananas,2017,3915948
+Angola,Bananas,2018,3954036
+Angola,Bananas,2019,4036959
+Angola,Bananas,2020,4115028
+Antigua and Barbuda,Bananas,2010,225
+Antigua and Barbuda,Bananas,2011,239
+Antigua and Barbuda,Bananas,2012,250
+Antigua and Barbuda,Bananas,2013,255
+Antigua and Barbuda,Bananas,2014,259
+Antigua and Barbuda,Bananas,2015,263
+Antigua and Barbuda,Bananas,2016,231
+Antigua and Barbuda,Bananas,2017,204
+Antigua and Barbuda,Bananas,2018,179
+Antigua and Barbuda,Bananas,2019,150
+Antigua and Barbuda,Bananas,2020,5
+Argentina,Apples,2010,720000
+Argentina,Apples,2011,1150000
+Argentina,Apples,2012,1050000
+Argentina,Apples,2013,970000
+Argentina,Apples,2014,711052
+Argentina,Apples,2015,693275
+Argentina,Apples,2016,458908
+Argentina,Apples,2017,458908
+Argentina,Apples,2018,510478
+Argentina,Apples,2019,537640
+Argentina,Apples,2020,535797
+Argentina,Bananas,2010,171039
+Argentina,Bananas,2011,174901
+Argentina,Bananas,2012,175203
+Argentina,Bananas,2013,175334
+Argentina,Bananas,2014,175891
+Argentina,Bananas,2015,176076
+Argentina,Bananas,2016,176237
+Argentina,Bananas,2017,176294
+Argentina,Bananas,2018,176040
+Argentina,Bananas,2019,176238
+Argentina,Bananas,2020,176436
+Argentina,Oranges,2010,833486
+Argentina,Oranges,2011,1130074
+Argentina,Oranges,2012,933526
+Argentina,Oranges,2013,859752
+Argentina,Oranges,2014,1022276
+Argentina,Oranges,2015,1001309
+Argentina,Oranges,2016,1032446
+Argentina,Oranges,2017,1025000
+Argentina,Oranges,2018,1006779
+Argentina,Oranges,2019,1026862
+Argentina,Oranges,2020,1040114
+Armenia,Apples,2010,56487
+Armenia,Apples,2011,77602
+Armenia,Apples,2012,110289
+Armenia,Apples,2013,111946
+Armenia,Apples,2014,132627
+Armenia,Apples,2015,126995
+Armenia,Apples,2016,62574
+Armenia,Apples,2017,116051
+Armenia,Apples,2018,109939
+Armenia,Apples,2019,81674
+Armenia,Apples,2020,84676
+Australia,Apples,2010,264401
+Australia,Apples,2011,299778
+Australia,Apples,2012,289064
+Australia,Apples,2013,288878
+Australia,Apples,2014,266771
+Australia,Apples,2015,295196
+Australia,Apples,2016,308298
+Australia,Apples,2017,313730
+Australia,Apples,2018,268355
+Australia,Apples,2019,265150
+Australia,Apples,2020,262966
+Australia,Bananas,2010,302173
+Australia,Bananas,2011,202751
+Australia,Bananas,2012,285535
+Australia,Bananas,2013,330340
+Australia,Bananas,2014,254474
+Australia,Bananas,2015,252024
+Australia,Bananas,2016,354241
+Australia,Bananas,2017,412972
+Australia,Bananas,2018,373931
+Australia,Bananas,2019,310160
+Australia,Bananas,2020,372433
+Australia,Oranges,2010,391343
+Australia,Oranges,2011,291223
+Australia,Oranges,2012,389799
+Australia,Oranges,2013,400554
+Australia,Oranges,2014,350000
+Australia,Oranges,2015,337636
+Australia,Oranges,2016,398610
+Australia,Oranges,2017,332321
+Australia,Oranges,2018,378233
+Australia,Oranges,2019,343028
+Australia,Oranges,2020,382980
+Austria,Apples,2010,270805
+Austria,Apples,2011,302810
+Austria,Apples,2012,262108
+Austria,Apples,2013,234585
+Austria,Apples,2014,310339
+Austria,Apples,2015,287599
+Austria,Apples,2016,101667
+Austria,Apples,2017,185244
+Austria,Apples,2018,387950
+Austria,Apples,2019,239210
+Austria,Apples,2020,258220
+Austria,Bananas,2018,0
+Austria,Bananas,2019,0
+Austria,Bananas,2020,0
+Austria,Oranges,2018,0
+Austria,Oranges,2019,0
+Austria,Oranges,2020,0
+Azerbaijan,Apples,2010,211665
+Azerbaijan,Apples,2011,223067
+Azerbaijan,Apples,2012,234771
+Azerbaijan,Apples,2013,246685
+Azerbaijan,Apples,2014,252327
+Azerbaijan,Apples,2015,256398
+Azerbaijan,Apples,2016,254296
+Azerbaijan,Apples,2017,275093
+Azerbaijan,Apples,2018,277158
+Azerbaijan,Apples,2019,292736
+Azerbaijan,Apples,2020,301411
+Azerbaijan,Oranges,2010,797
+Azerbaijan,Oranges,2011,845
+Azerbaijan,Oranges,2012,1100
+Azerbaijan,Oranges,2013,1563
+Azerbaijan,Oranges,2014,1584
+Azerbaijan,Oranges,2015,2036
+Azerbaijan,Oranges,2016,3003
+Azerbaijan,Oranges,2017,3018
+Azerbaijan,Oranges,2018,3090
+Azerbaijan,Oranges,2019,3477
+Azerbaijan,Oranges,2020,3927
+Bahamas,Bananas,2010,8226
+Bahamas,Bananas,2011,9419
+Bahamas,Bananas,2012,9462
+Bahamas,Bananas,2013,9661
+Bahamas,Bananas,2014,9892
+Bahamas,Bananas,2015,9884
+Bahamas,Bananas,2016,9976
+Bahamas,Bananas,2017,9917
+Bahamas,Bananas,2018,9926
+Bahamas,Bananas,2019,9940
+Bahamas,Bananas,2020,9928
+Bahamas,Oranges,2010,3655
+Bahamas,Oranges,2011,3658
+Bahamas,Oranges,2012,3661
+Bahamas,Oranges,2013,3664
+Bahamas,Oranges,2014,3667
+Bahamas,Oranges,2015,3670
+Bahamas,Oranges,2016,3673
+Bahamas,Oranges,2017,3676
+Bahamas,Oranges,2018,3679
+Bahamas,Oranges,2019,3682
+Bahamas,Oranges,2020,3685
+Bahrain,Bananas,2010,948
+Bahrain,Bananas,2011,955
+Bahrain,Bananas,2012,1000
+Bahrain,Bananas,2013,963
+Bahrain,Bananas,2014,969
+Bahrain,Bananas,2015,1010
+Bahrain,Bananas,2016,1010
+Bahrain,Bananas,2017,1009
+Bahrain,Bananas,2018,1009
+Bahrain,Bananas,2019,1015
+Bahrain,Bananas,2020,1021
+Bangladesh,Bananas,2010,818254
+Bangladesh,Bananas,2011,800840
+Bangladesh,Bananas,2012,745927
+Bangladesh,Bananas,2013,774826
+Bangladesh,Bananas,2014,770203
+Bangladesh,Bananas,2015,777427
+Bangladesh,Bananas,2016,798012
+Bangladesh,Bananas,2017,807104
+Bangladesh,Bananas,2018,810347
+Bangladesh,Bananas,2019,833309
+Bangladesh,Bananas,2020,817908
+Bangladesh,Oranges,2010,2666
+Bangladesh,Oranges,2011,2998
+Bangladesh,Oranges,2012,2986
+Bangladesh,Oranges,2013,3448
+Bangladesh,Oranges,2014,3674
+Bangladesh,Oranges,2015,3954
+Bangladesh,Oranges,2016,3218
+Bangladesh,Oranges,2017,3372
+Bangladesh,Oranges,2018,3315
+Bangladesh,Oranges,2019,3393
+Bangladesh,Oranges,2020,3212
+Barbados,Bananas,2010,846
+Barbados,Bananas,2011,894
+Barbados,Bananas,2012,950
+Barbados,Bananas,2013,956
+Barbados,Bananas,2014,980
+Barbados,Bananas,2015,992
+Barbados,Bananas,2016,1005
+Barbados,Bananas,2017,992
+Barbados,Bananas,2018,996
+Barbados,Bananas,2019,998
+Barbados,Bananas,2020,995
+Belarus,Apples,2010,525552
+Belarus,Apples,2011,190829
+Belarus,Apples,2012,511471
+Belarus,Apples,2013,311495
+Belarus,Apples,2014,512641
+Belarus,Apples,2015,354817
+Belarus,Apples,2016,508816
+Belarus,Apples,2017,317078
+Belarus,Apples,2018,700198
+Belarus,Apples,2019,336697
+Belarus,Apples,2020,532655
+Belgium,Apples,2010,343980
+Belgium,Apples,2011,228405
+Belgium,Apples,2012,220400
+Belgium,Apples,2013,228900
+Belgium,Apples,2014,318400
+Belgium,Apples,2015,284210
+Belgium,Apples,2016,238244
+Belgium,Apples,2017,86236
+Belgium,Apples,2018,231300
+Belgium,Apples,2019,241860
+Belgium,Apples,2020,168030
+Belgium,Bananas,2018,0
+Belgium,Bananas,2019,0
+Belgium,Bananas,2020,0
+Belgium,Oranges,2018,0
+Belgium,Oranges,2019,0
+Belgium,Oranges,2020,0
+Belize,Bananas,2010,77792
+Belize,Bananas,2011,75660
+Belize,Bananas,2012,105881
+Belize,Bananas,2013,100890
+Belize,Bananas,2014,105445
+Belize,Bananas,2015,101058
+Belize,Bananas,2016,72365
+Belize,Bananas,2017,86935
+Belize,Bananas,2018,82081
+Belize,Bananas,2019,85603
+Belize,Bananas,2020,92635
+Belize,Oranges,2010,157230
+Belize,Oranges,2011,181563
+Belize,Oranges,2012,237020
+Belize,Oranges,2013,165404
+Belize,Oranges,2014,169781
+Belize,Oranges,2015,166295
+Belize,Oranges,2016,132585
+Belize,Oranges,2017,130670
+Belize,Oranges,2018,99341
+Belize,Oranges,2019,86818
+Belize,Oranges,2020,95100
+Benin,Bananas,2010,16194
+Benin,Bananas,2011,17088
+Benin,Bananas,2012,18500
+Benin,Bananas,2013,18963
+Benin,Bananas,2014,19594
+Benin,Bananas,2015,19693
+Benin,Bananas,2016,19998
+Benin,Bananas,2017,19762
+Benin,Bananas,2018,19817
+Benin,Bananas,2019,19859
+Benin,Bananas,2020,19813
+Benin,Oranges,2010,13269
+Benin,Oranges,2011,13500
+Benin,Oranges,2012,14000
+Benin,Oranges,2013,14193
+Benin,Oranges,2014,14417
+Benin,Oranges,2015,14546
+Benin,Oranges,2016,14716
+Benin,Oranges,2017,15080
+Benin,Oranges,2018,14780
+Benin,Oranges,2019,14859
+Benin,Oranges,2020,14906
+Bhutan,Apples,2010,17366
+Bhutan,Apples,2011,20752
+Bhutan,Apples,2012,7666
+Bhutan,Apples,2013,7830
+Bhutan,Apples,2014,7994
+Bhutan,Apples,2015,5308
+Bhutan,Apples,2016,6587
+Bhutan,Apples,2017,8039
+Bhutan,Apples,2018,3684
+Bhutan,Apples,2019,4321
+Bhutan,Apples,2020,4056
+Bhutan,Bananas,2010,2208
+Bhutan,Bananas,2011,2439
+Bhutan,Bananas,2012,1547
+Bhutan,Bananas,2013,1479
+Bhutan,Bananas,2014,1510
+Bhutan,Bananas,2015,2636
+Bhutan,Bananas,2016,3076
+Bhutan,Bananas,2017,3113
+Bhutan,Bananas,2018,2762
+Bhutan,Bananas,2019,3754
+Bhutan,Bananas,2020,3150
+Bhutan,Oranges,2010,52621
+Bhutan,Oranges,2011,63609
+Bhutan,Oranges,2012,49501
+Bhutan,Oranges,2013,49069
+Bhutan,Oranges,2014,41485
+Bhutan,Oranges,2015,15977
+Bhutan,Oranges,2016,42003
+Bhutan,Oranges,2017,28017
+Bhutan,Oranges,2018,26527
+Bhutan,Oranges,2019,27529
+Bhutan,Oranges,2020,25661
+Bolivia (Plurinational State of),Apples,2010,1989
+Bolivia (Plurinational State of),Apples,2011,2014
+Bolivia (Plurinational State of),Apples,2012,2025
+Bolivia (Plurinational State of),Apples,2013,2057
+Bolivia (Plurinational State of),Apples,2014,2419
+Bolivia (Plurinational State of),Apples,2015,2522
+Bolivia (Plurinational State of),Apples,2016,2578
+Bolivia (Plurinational State of),Apples,2017,2751
+Bolivia (Plurinational State of),Apples,2018,2805
+Bolivia (Plurinational State of),Apples,2019,2931
+Bolivia (Plurinational State of),Apples,2020,2750
+Bolivia (Plurinational State of),Bananas,2010,159681
+Bolivia (Plurinational State of),Bananas,2011,164657
+Bolivia (Plurinational State of),Bananas,2012,169615
+Bolivia (Plurinational State of),Bananas,2013,164256
+Bolivia (Plurinational State of),Bananas,2014,283310
+Bolivia (Plurinational State of),Bananas,2015,292221
+Bolivia (Plurinational State of),Bananas,2016,299580
+Bolivia (Plurinational State of),Bananas,2017,289674
+Bolivia (Plurinational State of),Bananas,2018,305950
+Bolivia (Plurinational State of),Bananas,2019,301255
+Bolivia (Plurinational State of),Bananas,2020,301162
+Bolivia (Plurinational State of),Oranges,2010,167134
+Bolivia (Plurinational State of),Oranges,2011,167166
+Bolivia (Plurinational State of),Oranges,2012,168109
+Bolivia (Plurinational State of),Oranges,2013,165363
+Bolivia (Plurinational State of),Oranges,2014,179722
+Bolivia (Plurinational State of),Oranges,2015,181902
+Bolivia (Plurinational State of),Oranges,2016,185093
+Bolivia (Plurinational State of),Oranges,2017,180021
+Bolivia (Plurinational State of),Oranges,2018,189335
+Bolivia (Plurinational State of),Oranges,2019,193504
+Bolivia (Plurinational State of),Oranges,2020,191817
+Bosnia and Herzegovina,Apples,2010,71659
+Bosnia and Herzegovina,Apples,2011,75334
+Bosnia and Herzegovina,Apples,2012,50023
+Bosnia and Herzegovina,Apples,2013,85117
+Bosnia and Herzegovina,Apples,2014,44795
+Bosnia and Herzegovina,Apples,2015,91471
+Bosnia and Herzegovina,Apples,2016,69062
+Bosnia and Herzegovina,Apples,2017,52252
+Bosnia and Herzegovina,Apples,2018,112513
+Bosnia and Herzegovina,Apples,2019,98265
+Bosnia and Herzegovina,Apples,2020,109071
+Bosnia and Herzegovina,Oranges,2010,120
+Bosnia and Herzegovina,Oranges,2011,122
+Bosnia and Herzegovina,Oranges,2012,125
+Bosnia and Herzegovina,Oranges,2013,130
+Bosnia and Herzegovina,Oranges,2014,130
+Bosnia and Herzegovina,Oranges,2015,130
+Bosnia and Herzegovina,Oranges,2016,131
+Bosnia and Herzegovina,Oranges,2017,135
+Bosnia and Herzegovina,Oranges,2018,134
+Bosnia and Herzegovina,Oranges,2019,134
+Bosnia and Herzegovina,Oranges,2020,135
+Botswana,Oranges,2010,649
+Botswana,Oranges,2011,600
+Botswana,Oranges,2012,600
+Botswana,Oranges,2013,700
+Botswana,Oranges,2014,674
+Botswana,Oranges,2015,842
+Botswana,Oranges,2016,1999
+Botswana,Oranges,2017,3334
+Botswana,Oranges,2018,3914
+Botswana,Oranges,2019,4005
+Botswana,Oranges,2020,4029
+Brazil,Apples,2010,1279124
+Brazil,Apples,2011,1338995
+Brazil,Apples,2012,1339771
+Brazil,Apples,2013,1231472
+Brazil,Apples,2014,1378617
+Brazil,Apples,2015,1264651
+Brazil,Apples,2016,1055383
+Brazil,Apples,2017,1307642
+Brazil,Apples,2018,1203007
+Brazil,Apples,2019,1222949
+Brazil,Apples,2020,983247
+Brazil,Bananas,2010,6969306
+Brazil,Bananas,2011,7329471
+Brazil,Bananas,2012,6902184
+Brazil,Bananas,2013,6892622
+Brazil,Bananas,2014,6953747
+Brazil,Bananas,2015,6859227
+Brazil,Bananas,2016,6625211
+Brazil,Bananas,2017,6584967
+Brazil,Bananas,2018,6723590
+Brazil,Bananas,2019,6831874
+Brazil,Bananas,2020,6637308
+Brazil,Oranges,2010,18503139
+Brazil,Oranges,2011,19811064
+Brazil,Oranges,2012,18012560
+Brazil,Oranges,2013,17549536
+Brazil,Oranges,2014,16928457
+Brazil,Oranges,2015,16953015
+Brazil,Oranges,2016,16980379
+Brazil,Oranges,2017,17492882
+Brazil,Oranges,2018,16841549
+Brazil,Oranges,2019,17090362
+Brazil,Oranges,2020,16707897
+Brunei Darussalam,Bananas,2010,843
+Brunei Darussalam,Bananas,2011,852
+Brunei Darussalam,Bananas,2012,850
+Brunei Darussalam,Bananas,2013,966
+Brunei Darussalam,Bananas,2014,1108
+Brunei Darussalam,Bananas,2015,1269
+Brunei Darussalam,Bananas,2016,1630
+Brunei Darussalam,Bananas,2017,1822
+Brunei Darussalam,Bananas,2018,1822
+Brunei Darussalam,Bananas,2019,1943
+Brunei Darussalam,Bananas,2020,1717
+Brunei Darussalam,Oranges,2010,388
+Brunei Darussalam,Oranges,2011,398
+Brunei Darussalam,Oranges,2012,420
+Brunei Darussalam,Oranges,2013,420
+Brunei Darussalam,Oranges,2014,425
+Brunei Darussalam,Oranges,2015,437
+Brunei Darussalam,Oranges,2016,445
+Brunei Darussalam,Oranges,2017,436
+Brunei Darussalam,Oranges,2018,439
+Brunei Darussalam,Oranges,2019,440
+Brunei Darussalam,Oranges,2020,438
+Bulgaria,Apples,2010,43235
+Bulgaria,Apples,2011,40413
+Bulgaria,Apples,2012,30942
+Bulgaria,Apples,2013,55013
+Bulgaria,Apples,2014,54502
+Bulgaria,Apples,2015,58419
+Bulgaria,Apples,2016,44755
+Bulgaria,Apples,2017,44927
+Bulgaria,Apples,2018,50300
+Bulgaria,Apples,2019,43620
+Bulgaria,Apples,2020,37870
+Bulgaria,Bananas,2018,0
+Bulgaria,Bananas,2019,0
+Bulgaria,Bananas,2020,0
+Bulgaria,Oranges,2018,0
+Bulgaria,Oranges,2019,0
+Bulgaria,Oranges,2020,0
+Burkina Faso,Oranges,2010,573
+Burkina Faso,Oranges,2011,578
+Burkina Faso,Oranges,2012,600
+Burkina Faso,Oranges,2013,610
+Burkina Faso,Oranges,2014,603
+Burkina Faso,Oranges,2015,600
+Burkina Faso,Oranges,2016,603
+Burkina Faso,Oranges,2017,611
+Burkina Faso,Oranges,2018,617
+Burkina Faso,Oranges,2019,621
+Burkina Faso,Oranges,2020,626
+Burundi,Bananas,2010,1912661
+Burundi,Bananas,2011,1848727
+Burundi,Bananas,2012,1184075
+Burundi,Bananas,2013,2235697
+Burundi,Bananas,2014,1362837
+Burundi,Bananas,2015,865571
+Burundi,Bananas,2016,911193
+Burundi,Bananas,2017,830957
+Burundi,Bananas,2018,1654955
+Burundi,Bananas,2019,1179759
+Burundi,Bananas,2020,1280048
+Cabo Verde,Bananas,2010,7000
+Cabo Verde,Bananas,2011,9100
+Cabo Verde,Bananas,2012,9560
+Cabo Verde,Bananas,2013,10033
+Cabo Verde,Bananas,2014,10534
+Cabo Verde,Bananas,2015,10300
+Cabo Verde,Bananas,2016,10443
+Cabo Verde,Bananas,2017,10416
+Cabo Verde,Bananas,2018,7509
+Cabo Verde,Bananas,2019,6631
+Cabo Verde,Bananas,2020,5553
+Cambodia,Bananas,2010,157753
+Cambodia,Bananas,2011,142130
+Cambodia,Bananas,2012,139616
+Cambodia,Bananas,2013,138489
+Cambodia,Bananas,2014,137980
+Cambodia,Bananas,2015,144077
+Cambodia,Bananas,2016,140182
+Cambodia,Bananas,2017,142232
+Cambodia,Bananas,2018,140640
+Cambodia,Bananas,2019,140153
+Cambodia,Bananas,2020,139811
+Cambodia,Oranges,2010,65239
+Cambodia,Oranges,2011,64591
+Cambodia,Oranges,2012,64435
+Cambodia,Oranges,2013,64517
+Cambodia,Oranges,2014,64612
+Cambodia,Oranges,2015,64901
+Cambodia,Oranges,2016,64931
+Cambodia,Oranges,2017,64458
+Cambodia,Oranges,2018,64362
+Cambodia,Oranges,2019,64391
+Cambodia,Oranges,2020,64420
+Cameroon,Bananas,2010,1333851
+Cameroon,Bananas,2011,1394675
+Cameroon,Bananas,2012,1471007
+Cameroon,Bananas,2013,1600231
+Cameroon,Bananas,2014,1067636
+Cameroon,Bananas,2015,1082800
+Cameroon,Bananas,2016,1187547
+Cameroon,Bananas,2017,1246094
+Cameroon,Bananas,2018,1208694
+Cameroon,Bananas,2019,1205687
+Cameroon,Bananas,2020,1209750
+Canada,Apples,2010,371025
+Canada,Apples,2011,420102
+Canada,Apples,2012,282766
+Canada,Apples,2013,427201
+Canada,Apples,2014,409839
+Canada,Apples,2015,348508
+Canada,Apples,2016,417989
+Canada,Apples,2017,402082
+Canada,Apples,2018,399808
+Canada,Apples,2019,380669
+Canada,Apples,2020,385452
+Central African Republic,Bananas,2010,126000
+Central African Republic,Bananas,2011,124000
+Central African Republic,Bananas,2012,128000
+Central African Republic,Bananas,2013,128741
+Central African Republic,Bananas,2014,130000
+Central African Republic,Bananas,2015,132000
+Central African Republic,Bananas,2016,135000
+Central African Republic,Bananas,2017,130000
+Central African Republic,Bananas,2018,140000
+Central African Republic,Bananas,2019,139755
+Central African Republic,Bananas,2020,139781
+Central African Republic,Oranges,2010,24000
+Central African Republic,Oranges,2011,26474
+Central African Republic,Oranges,2012,30500
+Central African Republic,Oranges,2013,32794
+Central African Republic,Oranges,2014,35226
+Central African Republic,Oranges,2015,32916
+Central African Republic,Oranges,2016,33645
+Central African Republic,Oranges,2017,34193
+Central African Republic,Oranges,2018,34709
+Central African Republic,Oranges,2019,35281
+Central African Republic,Oranges,2020,34727
+Chile,Apples,2010,1624242
+Chile,Apples,2011,1588347
+Chile,Apples,2012,1607415
+Chile,Apples,2013,1716253
+Chile,Apples,2014,1721893
+Chile,Apples,2015,1710319
+Chile,Apples,2016,1707557
+Chile,Apples,2017,1741845
+Chile,Apples,2018,1684343
+Chile,Apples,2019,1602722
+Chile,Apples,2020,1619575
+Chile,Oranges,2010,132686
+Chile,Oranges,2011,140282
+Chile,Oranges,2012,142933
+Chile,Oranges,2013,144610
+Chile,Oranges,2014,141082
+Chile,Oranges,2015,130747
+Chile,Oranges,2016,135595
+Chile,Oranges,2017,137550
+Chile,Oranges,2018,140000
+Chile,Oranges,2019,135491
+Chile,Oranges,2020,131262
+China,Apples,2010,33265186
+China,Apples,2011,35986667
+China,Apples,2012,38492519
+China,Apples,2013,39683908
+China,Apples,2014,40924707
+China,Apples,2015,38900319
+China,Apples,2016,40394483
+China,Apples,2017,41391451
+China,Apples,2018,39235019
+China,Apples,2019,42426578
+China,Apples,2020,40501041
+China,Bananas,2010,9848395
+China,Bananas,2011,10705740
+China,Bananas,2012,11853265
+China,Bananas,2013,12366492
+China,Bananas,2014,12091800
+China,Bananas,2015,10901066
+China,Bananas,2016,11197559
+China,Bananas,2017,11525817
+China,Bananas,2018,11577938
+China,Bananas,2019,11998329
+China,Bananas,2020,11872600
+China,Oranges,2010,5803289
+China,Oranges,2011,6867029
+China,Oranges,2012,7258745
+China,Oranges,2013,7466496
+China,Oranges,2014,7964133
+China,Oranges,2015,8191678
+China,Oranges,2016,8414043
+China,Oranges,2017,8312248
+China,Oranges,2018,8090798
+China,Oranges,2019,7910242
+China,Oranges,2020,7641167
+"China, mainland",Apples,2010,33263000
+"China, mainland",Apples,2011,35985000
+"China, mainland",Apples,2012,38491000
+"China, mainland",Apples,2013,39682616
+"China, mainland",Apples,2014,40923200
+"China, mainland",Apples,2015,38899000
+"China, mainland",Apples,2016,40393000
+"China, mainland",Apples,2017,41390000
+"China, mainland",Apples,2018,39233400
+"China, mainland",Apples,2019,42425400
+"China, mainland",Apples,2020,40500000
+"China, mainland",Bananas,2010,9560500
+"China, mainland",Bananas,2011,10400000
+"China, mainland",Bananas,2012,11558000
+"China, mainland",Bananas,2013,12075200
+"China, mainland",Bananas,2014,11791900
+"China, mainland",Bananas,2015,10627000
+"China, mainland",Bananas,2016,10940000
+"China, mainland",Bananas,2017,11169800
+"China, mainland",Bananas,2018,11221700
+"China, mainland",Bananas,2019,11655700
+"China, mainland",Bananas,2020,11513000
+"China, mainland",Oranges,2010,5618000
+"China, mainland",Oranges,2011,6688200
+"China, mainland",Oranges,2012,7096400
+"China, mainland",Oranges,2013,7306000
+"China, mainland",Oranges,2014,7801600
+"China, mainland",Oranges,2015,8052184
+"China, mainland",Oranges,2016,8282714
+"China, mainland",Oranges,2017,8158282
+"China, mainland",Oranges,2018,7948401
+"China, mainland",Oranges,2019,7762604
+"China, mainland",Oranges,2020,7500000
+"China, Taiwan Province of",Apples,2010,2186
+"China, Taiwan Province of",Apples,2011,1667
+"China, Taiwan Province of",Apples,2012,1519
+"China, Taiwan Province of",Apples,2013,1292
+"China, Taiwan Province of",Apples,2014,1507
+"China, Taiwan Province of",Apples,2015,1319
+"China, Taiwan Province of",Apples,2016,1483
+"China, Taiwan Province of",Apples,2017,1451
+"China, Taiwan Province of",Apples,2018,1619
+"China, Taiwan Province of",Apples,2019,1178
+"China, Taiwan Province of",Apples,2020,1041
+"China, Taiwan Province of",Bananas,2010,287895
+"China, Taiwan Province of",Bananas,2011,305740
+"China, Taiwan Province of",Bananas,2012,295265
+"China, Taiwan Province of",Bananas,2013,291292
+"China, Taiwan Province of",Bananas,2014,299900
+"China, Taiwan Province of",Bananas,2015,274066
+"China, Taiwan Province of",Bananas,2016,257559
+"China, Taiwan Province of",Bananas,2017,356017
+"China, Taiwan Province of",Bananas,2018,356238
+"China, Taiwan Province of",Bananas,2019,342629
+"China, Taiwan Province of",Bananas,2020,359600
+"China, Taiwan Province of",Oranges,2010,185289
+"China, Taiwan Province of",Oranges,2011,178829
+"China, Taiwan Province of",Oranges,2012,162345
+"China, Taiwan Province of",Oranges,2013,160496
+"China, Taiwan Province of",Oranges,2014,162533
+"China, Taiwan Province of",Oranges,2015,139494
+"China, Taiwan Province of",Oranges,2016,131329
+"China, Taiwan Province of",Oranges,2017,153966
+"China, Taiwan Province of",Oranges,2018,142397
+"China, Taiwan Province of",Oranges,2019,147638
+"China, Taiwan Province of",Oranges,2020,141167
+Colombia,Apples,2010,1638
+Colombia,Apples,2011,1219
+Colombia,Apples,2012,2190
+Colombia,Apples,2013,2547
+Colombia,Apples,2014,2247
+Colombia,Apples,2015,2506
+Colombia,Apples,2016,2259
+Colombia,Apples,2017,3065
+Colombia,Apples,2018,4734
+Colombia,Apples,2019,5053
+Colombia,Apples,2020,4884
+Colombia,Bananas,2010,2019625
+Colombia,Bananas,2011,2042926
+Colombia,Bananas,2012,3500370
+Colombia,Bananas,2013,3769651
+Colombia,Bananas,2014,3263891
+Colombia,Bananas,2015,3705343
+Colombia,Bananas,2016,3691163
+Colombia,Bananas,2017,2020915
+Colombia,Bananas,2018,2567169
+Colombia,Bananas,2019,2914419
+Colombia,Bananas,2020,2434900
+Colombia,Oranges,2010,228129
+Colombia,Oranges,2011,260715
+Colombia,Oranges,2012,229229
+Colombia,Oranges,2013,245267
+Colombia,Oranges,2014,233342
+Colombia,Oranges,2015,268750
+Colombia,Oranges,2016,294895
+Colombia,Oranges,2017,331502
+Colombia,Oranges,2018,338418
+Colombia,Oranges,2019,351200
+Colombia,Oranges,2020,350919
+Comoros,Bananas,2010,57840
+Comoros,Bananas,2011,52624
+Comoros,Bananas,2012,46684
+Comoros,Bananas,2013,47909
+Comoros,Bananas,2014,47091
+Comoros,Bananas,2015,45928
+Comoros,Bananas,2016,46976
+Comoros,Bananas,2017,46665
+Comoros,Bananas,2018,46523
+Comoros,Bananas,2019,46721
+Comoros,Bananas,2020,46636
+Congo,Bananas,2010,83115
+Congo,Bananas,2011,83456
+Congo,Bananas,2012,82280
+Congo,Bananas,2013,82608
+Congo,Bananas,2014,82986
+Congo,Bananas,2015,84556
+Congo,Bananas,2016,85764
+Congo,Bananas,2017,85944
+Congo,Bananas,2018,85450
+Congo,Bananas,2019,85729
+Congo,Bananas,2020,86008
+Congo,Oranges,2010,2280
+Congo,Oranges,2011,2258
+Congo,Oranges,2012,2264
+Congo,Oranges,2013,2255
+Congo,Oranges,2014,2236
+Congo,Oranges,2015,2236
+Congo,Oranges,2016,2224
+Congo,Oranges,2017,2228
+Congo,Oranges,2018,2233
+Congo,Oranges,2019,2227
+Congo,Oranges,2020,2221
+Cook Islands,Bananas,2010,42
+Cook Islands,Bananas,2011,35
+Cook Islands,Bananas,2012,31
+Cook Islands,Bananas,2013,28
+Cook Islands,Bananas,2014,23
+Cook Islands,Bananas,2015,17
+Cook Islands,Bananas,2016,11
+Cook Islands,Bananas,2017,7
+Cook Islands,Bananas,2018,5
+Cook Islands,Bananas,2019,14
+Cook Islands,Bananas,2020,18
+Cook Islands,Oranges,2010,23
+Cook Islands,Oranges,2011,22
+Cook Islands,Oranges,2012,23
+Cook Islands,Oranges,2013,23
+Cook Islands,Oranges,2014,9
+Cook Islands,Oranges,2015,5
+Cook Islands,Oranges,2016,12
+Cook Islands,Oranges,2017,9
+Cook Islands,Oranges,2018,8
+Cook Islands,Oranges,2019,10
+Cook Islands,Oranges,2020,9
+Costa Rica,Bananas,2010,2019826
+Costa Rica,Bananas,2011,2125201
+Costa Rica,Bananas,2012,2352212
+Costa Rica,Bananas,2013,2418064
+Costa Rica,Bananas,2014,2415188
+Costa Rica,Bananas,2015,2470437
+Costa Rica,Bananas,2016,2659710
+Costa Rica,Bananas,2017,2537743
+Costa Rica,Bananas,2018,2595229
+Costa Rica,Bananas,2019,2249400
+Costa Rica,Bananas,2020,2528721
+Costa Rica,Oranges,2010,252000
+Costa Rica,Oranges,2011,284486
+Costa Rica,Oranges,2012,280000
+Costa Rica,Oranges,2013,280000
+Costa Rica,Oranges,2014,220000
+Costa Rica,Oranges,2015,226844
+Costa Rica,Oranges,2016,230855
+Costa Rica,Oranges,2017,234877
+Costa Rica,Oranges,2018,255729
+Costa Rica,Oranges,2019,166001
+Costa Rica,Oranges,2020,258234
+Côte d'Ivoire,Bananas,2010,314270
+Côte d'Ivoire,Bananas,2011,302500
+Côte d'Ivoire,Bananas,2012,326500
+Côte d'Ivoire,Bananas,2013,346165
+Côte d'Ivoire,Bananas,2014,357100
+Côte d'Ivoire,Bananas,2015,369849
+Côte d'Ivoire,Bananas,2016,396600
+Côte d'Ivoire,Bananas,2017,400000
+Côte d'Ivoire,Bananas,2018,270000
+Côte d'Ivoire,Bananas,2019,499600
+Côte d'Ivoire,Bananas,2020,625981
+Côte d'Ivoire,Oranges,2010,35797
+Côte d'Ivoire,Oranges,2011,36809
+Côte d'Ivoire,Oranges,2012,37714
+Côte d'Ivoire,Oranges,2013,38056
+Côte d'Ivoire,Oranges,2014,39595
+Côte d'Ivoire,Oranges,2015,40649
+Côte d'Ivoire,Oranges,2016,39433
+Côte d'Ivoire,Oranges,2017,41027
+Côte d'Ivoire,Oranges,2018,40370
+Côte d'Ivoire,Oranges,2019,40277
+Côte d'Ivoire,Oranges,2020,40558
+Croatia,Apples,2010,89124
+Croatia,Apples,2011,99676
+Croatia,Apples,2012,37414
+Croatia,Apples,2013,121738
+Croatia,Apples,2014,96703
+Croatia,Apples,2015,101752
+Croatia,Apples,2016,44781
+Croatia,Apples,2017,56570
+Croatia,Apples,2018,90250
+Croatia,Apples,2019,68350
+Croatia,Apples,2020,63610
+Croatia,Bananas,2018,0
+Croatia,Bananas,2019,0
+Croatia,Bananas,2020,0
+Croatia,Oranges,2010,202
+Croatia,Oranges,2011,315
+Croatia,Oranges,2012,269
+Croatia,Oranges,2013,145
+Croatia,Oranges,2014,106
+Croatia,Oranges,2015,255
+Croatia,Oranges,2016,467
+Croatia,Oranges,2017,173
+Croatia,Oranges,2018,370
+Croatia,Oranges,2019,510
+Croatia,Oranges,2020,350
+Cuba,Bananas,2010,249200
+Cuba,Bananas,2011,250000
+Cuba,Bananas,2012,195496
+Cuba,Bananas,2013,150336
+Cuba,Bananas,2014,203225
+Cuba,Bananas,2015,234471
+Cuba,Bananas,2016,298081
+Cuba,Bananas,2017,295526
+Cuba,Bananas,2018,271925
+Cuba,Bananas,2019,283047
+Cuba,Bananas,2020,263405
+Cuba,Oranges,2010,178263
+Cuba,Oranges,2011,122900
+Cuba,Oranges,2012,93837
+Cuba,Oranges,2013,85110
+Cuba,Oranges,2014,36103
+Cuba,Oranges,2015,40159
+Cuba,Oranges,2016,38046
+Cuba,Oranges,2017,30552
+Cuba,Oranges,2018,21327
+Cuba,Oranges,2019,19841
+Cuba,Oranges,2020,9988
+Cyprus,Apples,2010,6950
+Cyprus,Apples,2011,7121
+Cyprus,Apples,2012,6842
+Cyprus,Apples,2013,5313
+Cyprus,Apples,2014,4848
+Cyprus,Apples,2015,4880
+Cyprus,Apples,2016,4200
+Cyprus,Apples,2017,3792
+Cyprus,Apples,2018,1910
+Cyprus,Apples,2019,1840
+Cyprus,Apples,2020,1780
+Cyprus,Bananas,2010,6010
+Cyprus,Bananas,2011,6004
+Cyprus,Bananas,2012,6002
+Cyprus,Bananas,2013,5746
+Cyprus,Bananas,2014,6006
+Cyprus,Bananas,2015,5460
+Cyprus,Bananas,2016,7530
+Cyprus,Bananas,2017,5842
+Cyprus,Bananas,2018,5790
+Cyprus,Bananas,2019,5340
+Cyprus,Bananas,2020,5650
+Cyprus,Oranges,2010,33583
+Cyprus,Oranges,2011,40214
+Cyprus,Oranges,2012,34763
+Cyprus,Oranges,2013,34644
+Cyprus,Oranges,2014,33254
+Cyprus,Oranges,2015,32796
+Cyprus,Oranges,2016,26449
+Cyprus,Oranges,2017,20173
+Cyprus,Oranges,2018,17840
+Cyprus,Oranges,2019,19670
+Cyprus,Oranges,2020,19260
+Czechia,Apples,2010,99801
+Czechia,Apples,2011,84594
+Czechia,Apples,2012,118709
+Czechia,Apples,2013,121803
+Czechia,Apples,2014,128292
+Czechia,Apples,2015,155361
+Czechia,Apples,2016,124997
+Czechia,Apples,2017,105280
+Czechia,Apples,2018,151530
+Czechia,Apples,2019,99500
+Czechia,Apples,2020,115590
+Czechia,Bananas,2018,0
+Czechia,Bananas,2019,0
+Czechia,Bananas,2020,0
+Czechia,Oranges,2018,0
+Czechia,Oranges,2019,0
+Czechia,Oranges,2020,0
+Democratic People's Republic of Korea,Apples,2010,712312
+Democratic People's Republic of Korea,Apples,2011,752300
+Democratic People's Republic of Korea,Apples,2012,785000
+Democratic People's Republic of Korea,Apples,2013,780000
+Democratic People's Republic of Korea,Apples,2014,777126
+Democratic People's Republic of Korea,Apples,2015,776710
+Democratic People's Republic of Korea,Apples,2016,783182
+Democratic People's Republic of Korea,Apples,2017,804051
+Democratic People's Republic of Korea,Apples,2018,816569
+Democratic People's Republic of Korea,Apples,2019,801267
+Democratic People's Republic of Korea,Apples,2020,807295
+Democratic Republic of the Congo,Bananas,2010,316472
+Democratic Republic of the Congo,Bananas,2011,316982
+Democratic Republic of the Congo,Bananas,2012,364897
+Democratic Republic of the Congo,Bananas,2013,423826
+Democratic Republic of the Congo,Bananas,2014,514420
+Democratic Republic of the Congo,Bananas,2015,515371
+Democratic Republic of the Congo,Bananas,2016,660697
+Democratic Republic of the Congo,Bananas,2017,813883
+Democratic Republic of the Congo,Bananas,2018,803310
+Democratic Republic of the Congo,Bananas,2019,804591
+Democratic Republic of the Congo,Bananas,2020,821613
+Democratic Republic of the Congo,Oranges,2010,181360
+Democratic Republic of the Congo,Oranges,2011,181581
+Democratic Republic of the Congo,Oranges,2012,178206
+Democratic Republic of the Congo,Oranges,2013,172741
+Democratic Republic of the Congo,Oranges,2014,168759
+Democratic Republic of the Congo,Oranges,2015,171269
+Democratic Republic of the Congo,Oranges,2016,170256
+Democratic Republic of the Congo,Oranges,2017,167313
+Democratic Republic of the Congo,Oranges,2018,168158
+Democratic Republic of the Congo,Oranges,2019,167200
+Democratic Republic of the Congo,Oranges,2020,166241
+Denmark,Apples,2010,24190
+Denmark,Apples,2011,25735
+Denmark,Apples,2012,18731
+Denmark,Apples,2013,31184
+Denmark,Apples,2014,35371
+Denmark,Apples,2015,35647
+Denmark,Apples,2016,36470
+Denmark,Apples,2017,20496
+Denmark,Apples,2018,32650
+Denmark,Apples,2019,25210
+Denmark,Apples,2020,40020
+Denmark,Bananas,2018,0
+Denmark,Bananas,2019,0
+Denmark,Bananas,2020,0
+Denmark,Oranges,2018,0
+Denmark,Oranges,2019,0
+Denmark,Oranges,2020,0
+Djibouti,Oranges,2010,4
+Djibouti,Oranges,2011,4
+Djibouti,Oranges,2012,5
+Djibouti,Oranges,2013,5
+Djibouti,Oranges,2014,4
+Djibouti,Oranges,2015,5
+Djibouti,Oranges,2016,5
+Djibouti,Oranges,2017,5
+Djibouti,Oranges,2018,5
+Djibouti,Oranges,2019,5
+Djibouti,Oranges,2020,5
+Dominica,Bananas,2010,21000
+Dominica,Bananas,2011,22114
+Dominica,Bananas,2012,24500
+Dominica,Bananas,2013,23534
+Dominica,Bananas,2014,22004
+Dominica,Bananas,2015,20047
+Dominica,Bananas,2016,21861
+Dominica,Bananas,2017,21304
+Dominica,Bananas,2018,21071
+Dominica,Bananas,2019,21412
+Dominica,Bananas,2020,21262
+Dominica,Oranges,2010,7300
+Dominica,Oranges,2011,6850
+Dominica,Oranges,2012,6250
+Dominica,Oranges,2013,6237
+Dominica,Oranges,2014,6180
+Dominica,Oranges,2015,6322
+Dominica,Oranges,2016,6443
+Dominica,Oranges,2017,6456
+Dominica,Oranges,2018,6390
+Dominica,Oranges,2019,6372
+Dominica,Oranges,2020,6351
+Dominican Republic,Bananas,2010,892753
+Dominican Republic,Bananas,2011,922030
+Dominican Republic,Bananas,2012,968553
+Dominican Republic,Bananas,2013,1080061
+Dominican Republic,Bananas,2014,1115838
+Dominican Republic,Bananas,2015,1130088
+Dominican Republic,Bananas,2016,1140182
+Dominican Republic,Bananas,2017,1145149
+Dominican Republic,Bananas,2018,1175710
+Dominican Republic,Bananas,2019,1209268
+Dominican Republic,Bananas,2020,1232039
+Dominican Republic,Oranges,2010,138034
+Dominican Republic,Oranges,2011,139350
+Dominican Republic,Oranges,2012,170923
+Dominican Republic,Oranges,2013,157881
+Dominican Republic,Oranges,2014,167413
+Dominican Republic,Oranges,2015,149880
+Dominican Republic,Oranges,2016,134543
+Dominican Republic,Oranges,2017,130938
+Dominican Republic,Oranges,2018,136049
+Dominican Republic,Oranges,2019,134460
+Dominican Republic,Oranges,2020,128796
+Ecuador,Apples,2010,9073
+Ecuador,Apples,2011,9187
+Ecuador,Apples,2012,9129
+Ecuador,Apples,2013,8685
+Ecuador,Apples,2014,7406
+Ecuador,Apples,2015,6726
+Ecuador,Apples,2016,7605
+Ecuador,Apples,2017,7245
+Ecuador,Apples,2018,7192
+Ecuador,Apples,2019,7348
+Ecuador,Apples,2020,7262
+Ecuador,Bananas,2010,7931060
+Ecuador,Bananas,2011,7427776
+Ecuador,Bananas,2012,7012245
+Ecuador,Bananas,2013,5995527
+Ecuador,Bananas,2014,6756254
+Ecuador,Bananas,2015,7194431
+Ecuador,Bananas,2016,6529676
+Ecuador,Bananas,2017,6282105
+Ecuador,Bananas,2018,6505635
+Ecuador,Bananas,2019,6583477
+Ecuador,Bananas,2020,6023390
+Ecuador,Oranges,2010,47494
+Ecuador,Oranges,2011,36607
+Ecuador,Oranges,2012,48380
+Ecuador,Oranges,2013,42050
+Ecuador,Oranges,2014,114196
+Ecuador,Oranges,2015,116809
+Ecuador,Oranges,2016,75333
+Ecuador,Oranges,2017,142546
+Ecuador,Oranges,2018,103121
+Ecuador,Oranges,2019,133688
+Ecuador,Oranges,2020,146159
+Egypt,Apples,2010,493119
+Egypt,Apples,2011,455817
+Egypt,Apples,2012,541239
+Egypt,Apples,2013,629613
+Egypt,Apples,2014,623625
+Egypt,Apples,2015,695769
+Egypt,Apples,2016,754846
+Egypt,Apples,2017,716271
+Egypt,Apples,2018,716148
+Egypt,Apples,2019,701435
+Egypt,Apples,2020,697936
+Egypt,Bananas,2010,1028946
+Egypt,Bananas,2011,1054243
+Egypt,Bananas,2012,1129777
+Egypt,Bananas,2013,1158224
+Egypt,Bananas,2014,1283644
+Egypt,Bananas,2015,1314177
+Egypt,Bananas,2016,1214077
+Egypt,Bananas,2017,1365554
+Egypt,Bananas,2018,1292812
+Egypt,Bananas,2019,1330280
+Egypt,Bananas,2020,1382950
+Egypt,Oranges,2010,2401015
+Egypt,Oranges,2011,2577720
+Egypt,Oranges,2012,2786397
+Egypt,Oranges,2013,2855022
+Egypt,Oranges,2014,3135931
+Egypt,Oranges,2015,3351307
+Egypt,Oranges,2016,2939084
+Egypt,Oranges,2017,3147545
+Egypt,Oranges,2018,3085986
+Egypt,Oranges,2019,3067630
+Egypt,Oranges,2020,3157960
+El Salvador,Apples,2010,23000
+El Salvador,Apples,2011,32000
+El Salvador,Apples,2012,34000
+El Salvador,Apples,2013,36539
+El Salvador,Apples,2014,39496
+El Salvador,Apples,2015,47273
+El Salvador,Apples,2016,41103
+El Salvador,Apples,2017,42624
+El Salvador,Apples,2018,43667
+El Salvador,Apples,2019,42464
+El Salvador,Apples,2020,42918
+El Salvador,Bananas,2010,
+El Salvador,Bananas,2011,
+El Salvador,Bananas,2012,
+El Salvador,Bananas,2013,16496
+El Salvador,Bananas,2014,16153
+El Salvador,Bananas,2015,16499
+El Salvador,Bananas,2016,16133
+El Salvador,Bananas,2017,13811
+El Salvador,Bananas,2018,17249
+El Salvador,Bananas,2019,12208
+El Salvador,Bananas,2020,14028
+El Salvador,Oranges,2010,45699
+El Salvador,Oranges,2011,42446
+El Salvador,Oranges,2012,94797
+El Salvador,Oranges,2013,69038
+El Salvador,Oranges,2014,65783
+El Salvador,Oranges,2015,67020
+El Salvador,Oranges,2016,69394
+El Salvador,Oranges,2017,69403
+El Salvador,Oranges,2018,64242
+El Salvador,Oranges,2019,49517
+El Salvador,Oranges,2020,39843
+Equatorial Guinea,Bananas,2010,27402
+Equatorial Guinea,Bananas,2011,27417
+Equatorial Guinea,Bananas,2012,27789
+Equatorial Guinea,Bananas,2013,28563
+Equatorial Guinea,Bananas,2014,29118
+Equatorial Guinea,Bananas,2015,29671
+Equatorial Guinea,Bananas,2016,30204
+Equatorial Guinea,Bananas,2017,29664
+Equatorial Guinea,Bananas,2018,29846
+Equatorial Guinea,Bananas,2019,29905
+Equatorial Guinea,Bananas,2020,29805
+Estonia,Apples,2010,1983
+Estonia,Apples,2011,2702
+Estonia,Apples,2012,1855
+Estonia,Apples,2013,4411
+Estonia,Apples,2014,2307
+Estonia,Apples,2015,2700
+Estonia,Apples,2016,5497
+Estonia,Apples,2017,3648
+Estonia,Apples,2018,1640
+Estonia,Apples,2019,1850
+Estonia,Apples,2020,1260
+Estonia,Bananas,2018,0
+Estonia,Bananas,2019,0
+Estonia,Bananas,2020,0
+Estonia,Oranges,2018,0
+Estonia,Oranges,2019,0
+Estonia,Oranges,2020,0
+Eswatini,Bananas,2010,5750
+Eswatini,Bananas,2011,5800
+Eswatini,Bananas,2012,6000
+Eswatini,Bananas,2013,6122
+Eswatini,Bananas,2014,6233
+Eswatini,Bananas,2015,6845
+Eswatini,Bananas,2016,6400
+Eswatini,Bananas,2017,6492
+Eswatini,Bananas,2018,6579
+Eswatini,Bananas,2019,6490
+Eswatini,Bananas,2020,6521
+Eswatini,Oranges,2010,42500
+Eswatini,Oranges,2011,43000
+Eswatini,Oranges,2012,45000
+Eswatini,Oranges,2013,42499
+Eswatini,Oranges,2014,42717
+Eswatini,Oranges,2015,43618
+Eswatini,Oranges,2016,43799
+Eswatini,Oranges,2017,44274
+Eswatini,Oranges,2018,44332
+Eswatini,Oranges,2019,44717
+Eswatini,Oranges,2020,44441
+Ethiopia,Bananas,2010,270572
+Ethiopia,Bananas,2011,291258
+Ethiopia,Bananas,2012,302502
+Ethiopia,Bananas,2013,340012
+Ethiopia,Bananas,2014,478251
+Ethiopia,Bananas,2015,485165
+Ethiopia,Bananas,2016,538302
+Ethiopia,Bananas,2017,493602
+Ethiopia,Bananas,2018,501529
+Ethiopia,Bananas,2019,539443
+Ethiopia,Bananas,2020,898355
+Ethiopia,Oranges,2010,43979
+Ethiopia,Oranges,2011,48751
+Ethiopia,Oranges,2012,35746
+Ethiopia,Oranges,2013,33183
+Ethiopia,Oranges,2014,31428
+Ethiopia,Oranges,2015,31191
+Ethiopia,Oranges,2016,20656
+Ethiopia,Oranges,2017,30561
+Ethiopia,Oranges,2018,41250
+Ethiopia,Oranges,2019,29669
+Ethiopia,Oranges,2020,39916
+Fiji,Bananas,2010,4442
+Fiji,Bananas,2011,4810
+Fiji,Bananas,2012,730
+Fiji,Bananas,2013,4634
+Fiji,Bananas,2014,5022
+Fiji,Bananas,2015,5273
+Fiji,Bananas,2016,4148
+Fiji,Bananas,2017,4356
+Fiji,Bananas,2018,4888
+Fiji,Bananas,2019,5086
+Fiji,Bananas,2020,8763
+Fiji,Oranges,2010,95
+Fiji,Oranges,2011,98
+Fiji,Oranges,2012,97
+Fiji,Oranges,2013,97
+Fiji,Oranges,2014,1240
+Fiji,Oranges,2015,1421
+Fiji,Oranges,2016,690
+Fiji,Oranges,2017,684
+Fiji,Oranges,2018,990
+Fiji,Oranges,2019,995
+Fiji,Oranges,2020,1565
+Finland,Apples,2010,4262
+Finland,Apples,2011,5249
+Finland,Apples,2012,4807
+Finland,Apples,2013,4905
+Finland,Apples,2014,5211
+Finland,Apples,2015,6027
+Finland,Apples,2016,6401
+Finland,Apples,2017,6758
+Finland,Apples,2018,7200
+Finland,Apples,2019,8090
+Finland,Apples,2020,7170
+Finland,Bananas,2018,0
+Finland,Bananas,2019,0
+Finland,Bananas,2020,0
+Finland,Oranges,2018,0
+Finland,Oranges,2019,0
+Finland,Oranges,2020,0
+France,Apples,2010,1751269
+France,Apples,2011,1762640
+France,Apples,2012,1306333
+France,Apples,2013,1688158
+France,Apples,2014,1847551
+France,Apples,2015,1968628
+France,Apples,2016,1823123
+France,Apples,2017,1695949
+France,Apples,2018,1740350
+France,Apples,2019,1753500
+France,Apples,2020,1619880
+France,Bananas,2018,190750
+France,Bananas,2019,206870
+France,Bananas,2020,201440
+France,Oranges,2010,6074
+France,Oranges,2011,5985
+France,Oranges,2012,4213
+France,Oranges,2013,4116
+France,Oranges,2014,3657
+France,Oranges,2015,3672
+France,Oranges,2016,10478
+France,Oranges,2017,10842
+France,Oranges,2018,10090
+France,Oranges,2019,8890
+France,Oranges,2020,8160
+French Polynesia,Bananas,2010,236
+French Polynesia,Bananas,2011,189
+French Polynesia,Bananas,2012,196
+French Polynesia,Bananas,2013,211
+French Polynesia,Bananas,2014,210
+French Polynesia,Bananas,2015,213
+French Polynesia,Bananas,2016,206
+French Polynesia,Bananas,2017,208
+French Polynesia,Bananas,2018,209
+French Polynesia,Bananas,2019,207
+French Polynesia,Bananas,2020,208
+French Polynesia,Oranges,2010,369
+French Polynesia,Oranges,2011,413
+French Polynesia,Oranges,2012,420
+French Polynesia,Oranges,2013,467
+French Polynesia,Oranges,2014,463
+French Polynesia,Oranges,2015,469
+French Polynesia,Oranges,2016,473
+French Polynesia,Oranges,2017,469
+French Polynesia,Oranges,2018,480
+French Polynesia,Oranges,2019,485
+French Polynesia,Oranges,2020,478
+Gabon,Bananas,2010,16500
+Gabon,Bananas,2011,16800
+Gabon,Bananas,2012,17000
+Gabon,Bananas,2013,17242
+Gabon,Bananas,2014,17485
+Gabon,Bananas,2015,18213
+Gabon,Bananas,2016,17647
+Gabon,Bananas,2017,17782
+Gabon,Bananas,2018,17880
+Gabon,Bananas,2019,17769
+Gabon,Bananas,2020,17810
+Georgia,Apples,2010,21100
+Georgia,Apples,2011,64300
+Georgia,Apples,2012,45000
+Georgia,Apples,2013,68600
+Georgia,Apples,2014,82300
+Georgia,Apples,2015,25700
+Georgia,Apples,2016,65200
+Georgia,Apples,2017,19700
+Georgia,Apples,2018,82700
+Georgia,Apples,2019,44300
+Georgia,Apples,2020,89000
+Georgia,Oranges,2010,1400
+Georgia,Oranges,2011,600
+Georgia,Oranges,2012,3500
+Georgia,Oranges,2013,1400
+Georgia,Oranges,2014,1700
+Georgia,Oranges,2015,3500
+Georgia,Oranges,2016,2500
+Georgia,Oranges,2017,1800
+Georgia,Oranges,2018,1600
+Georgia,Oranges,2019,2000
+Georgia,Oranges,2020,2200
+Germany,Apples,2010,834960
+Germany,Apples,2011,898448
+Germany,Apples,2012,972405
+Germany,Apples,2013,803784
+Germany,Apples,2014,1115900
+Germany,Apples,2015,973462
+Germany,Apples,2016,1032913
+Germany,Apples,2017,596666
+Germany,Apples,2018,1198520
+Germany,Apples,2019,991450
+Germany,Apples,2020,1023320
+Germany,Bananas,2018,0
+Germany,Bananas,2019,0
+Germany,Bananas,2020,0
+Germany,Oranges,2018,0
+Germany,Oranges,2019,0
+Germany,Oranges,2020,0
+Ghana,Bananas,2010,70000
+Ghana,Bananas,2011,75000
+Ghana,Bananas,2012,80000
+Ghana,Bananas,2013,84240
+Ghana,Bananas,2014,87505
+Ghana,Bananas,2015,87505
+Ghana,Bananas,2016,87505
+Ghana,Bananas,2017,88057
+Ghana,Bananas,2018,87689
+Ghana,Bananas,2019,87751
+Ghana,Bananas,2020,87832
+Ghana,Oranges,2010,580000
+Ghana,Oranges,2011,600000
+Ghana,Oranges,2012,625000
+Ghana,Oranges,2013,663170
+Ghana,Oranges,2014,690130
+Ghana,Oranges,2015,690130
+Ghana,Oranges,2016,690130
+Ghana,Oranges,2017,702799
+Ghana,Oranges,2018,694353
+Ghana,Oranges,2019,695761
+Ghana,Oranges,2020,697637
+Greece,Apples,2010,273804
+Greece,Apples,2011,274115
+Greece,Apples,2012,265822
+Greece,Apples,2013,253700
+Greece,Apples,2014,252240
+Greece,Apples,2015,267018
+Greece,Apples,2016,279665
+Greece,Apples,2017,253107
+Greece,Apples,2018,285810
+Greece,Apples,2019,277110
+Greece,Apples,2020,303580
+Greece,Bananas,2010,4172
+Greece,Bananas,2011,4444
+Greece,Bananas,2012,4408
+Greece,Bananas,2013,4409
+Greece,Bananas,2014,2840
+Greece,Bananas,2015,2729
+Greece,Bananas,2016,2349
+Greece,Bananas,2017,2412
+Greece,Bananas,2018,4450
+Greece,Bananas,2019,4840
+Greece,Bananas,2020,4790
+Greece,Oranges,2010,905159
+Greece,Oranges,2011,847254
+Greece,Oranges,2012,849538
+Greece,Oranges,2013,875823
+Greece,Oranges,2014,754175
+Greece,Oranges,2015,808646
+Greece,Oranges,2016,805860
+Greece,Oranges,2017,727459
+Greece,Oranges,2018,913190
+Greece,Oranges,2019,849080
+Greece,Oranges,2020,886640
+Grenada,Apples,2010,434
+Grenada,Apples,2011,438
+Grenada,Apples,2012,466
+Grenada,Apples,2013,452
+Grenada,Apples,2014,502
+Grenada,Apples,2015,471
+Grenada,Apples,2016,475
+Grenada,Apples,2017,483
+Grenada,Apples,2018,476
+Grenada,Apples,2019,453
+Grenada,Apples,2020,457
+Grenada,Bananas,2010,2999
+Grenada,Bananas,2011,4491
+Grenada,Bananas,2012,5834
+Grenada,Bananas,2013,6635
+Grenada,Bananas,2014,6635
+Grenada,Bananas,2015,6635
+Grenada,Bananas,2016,6635
+Grenada,Bananas,2017,6635
+Grenada,Bananas,2018,5030
+Grenada,Bananas,2019,3779
+Grenada,Bananas,2020,1969
+Grenada,Oranges,2010,670
+Grenada,Oranges,2011,648
+Grenada,Oranges,2012,600
+Grenada,Oranges,2013,603
+Grenada,Oranges,2014,594
+Grenada,Oranges,2015,560
+Grenada,Oranges,2016,586
+Grenada,Oranges,2017,580
+Grenada,Oranges,2018,575
+Grenada,Oranges,2019,580
+Grenada,Oranges,2020,579
+Guatemala,Apples,2010,21773
+Guatemala,Apples,2011,22440
+Guatemala,Apples,2012,23242
+Guatemala,Apples,2013,24304
+Guatemala,Apples,2014,24812
+Guatemala,Apples,2015,26227
+Guatemala,Apples,2016,26499
+Guatemala,Apples,2017,25429
+Guatemala,Apples,2018,25014
+Guatemala,Apples,2019,25392
+Guatemala,Apples,2020,25497
+Guatemala,Bananas,2010,2560574
+Guatemala,Bananas,2011,2880466
+Guatemala,Bananas,2012,2978324
+Guatemala,Bananas,2013,3307038
+Guatemala,Bananas,2014,3424926
+Guatemala,Bananas,2015,3796115
+Guatemala,Bananas,2016,3775150
+Guatemala,Bananas,2017,4082703
+Guatemala,Bananas,2018,4207229
+Guatemala,Bananas,2019,4343827
+Guatemala,Bananas,2020,4476680
+Guatemala,Oranges,2010,154482
+Guatemala,Oranges,2011,160098
+Guatemala,Oranges,2012,152206
+Guatemala,Oranges,2013,154475
+Guatemala,Oranges,2014,155419
+Guatemala,Oranges,2015,160776
+Guatemala,Oranges,2016,177023
+Guatemala,Oranges,2017,181645
+Guatemala,Oranges,2018,177550
+Guatemala,Oranges,2019,177796
+Guatemala,Oranges,2020,180131
+Guinea,Bananas,2010,191905
+Guinea,Bananas,2011,210000
+Guinea,Bananas,2012,215000
+Guinea,Bananas,2013,211980
+Guinea,Bananas,2014,211959
+Guinea,Bananas,2015,216227
+Guinea,Bananas,2016,220829
+Guinea,Bananas,2017,223007
+Guinea,Bananas,2018,220021
+Guinea,Bananas,2019,221286
+Guinea,Bananas,2020,221438
+Guinea-Bissau,Bananas,2010,6582
+Guinea-Bissau,Bananas,2011,7017
+Guinea-Bissau,Bananas,2012,7500
+Guinea-Bissau,Bananas,2013,7937
+Guinea-Bissau,Bananas,2014,8250
+Guinea-Bissau,Bananas,2015,8511
+Guinea-Bissau,Bananas,2016,8233
+Guinea-Bissau,Bananas,2017,8331
+Guinea-Bissau,Bananas,2018,8358
+Guinea-Bissau,Bananas,2019,8307
+Guinea-Bissau,Bananas,2020,8332
+Guinea-Bissau,Oranges,2010,6284
+Guinea-Bissau,Oranges,2011,6363
+Guinea-Bissau,Oranges,2012,6500
+Guinea-Bissau,Oranges,2013,6516
+Guinea-Bissau,Oranges,2014,6586
+Guinea-Bissau,Oranges,2015,6685
+Guinea-Bissau,Oranges,2016,6774
+Guinea-Bissau,Oranges,2017,6846
+Guinea-Bissau,Oranges,2018,6897
+Guinea-Bissau,Oranges,2019,6839
+Guinea-Bissau,Oranges,2020,6861
+Guyana,Bananas,2010,5795
+Guyana,Bananas,2011,4353
+Guyana,Bananas,2012,3847
+Guyana,Bananas,2013,5168
+Guyana,Bananas,2014,11846
+Guyana,Bananas,2015,11846
+Guyana,Bananas,2016,15570
+Guyana,Bananas,2017,15597
+Guyana,Bananas,2018,16802
+Guyana,Bananas,2019,17134
+Guyana,Bananas,2020,17205
+Guyana,Oranges,2010,7164
+Guyana,Oranges,2011,3005
+Guyana,Oranges,2012,1306
+Guyana,Oranges,2013,2581
+Guyana,Oranges,2014,4300
+Guyana,Oranges,2015,9711
+Guyana,Oranges,2016,2039
+Guyana,Oranges,2017,8064
+Guyana,Oranges,2018,21734
+Guyana,Oranges,2019,22968
+Guyana,Oranges,2020,23554
+Haiti,Bananas,2010,255000
+Haiti,Bananas,2011,265000
+Haiti,Bananas,2012,270000
+Haiti,Bananas,2013,251400
+Haiti,Bananas,2014,276500
+Haiti,Bananas,2015,279181
+Haiti,Bananas,2016,278468
+Haiti,Bananas,2017,267141
+Haiti,Bananas,2018,274930
+Haiti,Bananas,2019,273513
+Haiti,Bananas,2020,271861
+Haiti,Oranges,2010,44832
+Haiti,Oranges,2011,47220
+Haiti,Oranges,2012,48450
+Haiti,Oranges,2013,57800
+Haiti,Oranges,2014,61636
+Haiti,Oranges,2015,65464
+Haiti,Oranges,2016,68273
+Haiti,Oranges,2017,72192
+Haiti,Oranges,2018,82305
+Haiti,Oranges,2019,66232
+Haiti,Oranges,2020,69939
+Honduras,Apples,2010,174
+Honduras,Apples,2011,175
+Honduras,Apples,2012,177
+Honduras,Apples,2013,178
+Honduras,Apples,2014,180
+Honduras,Apples,2015,183
+Honduras,Apples,2016,185
+Honduras,Apples,2017,186
+Honduras,Apples,2018,187
+Honduras,Apples,2019,189
+Honduras,Apples,2020,187
+Honduras,Bananas,2010,856270
+Honduras,Bananas,2011,830322
+Honduras,Bananas,2012,879522
+Honduras,Bananas,2013,730789
+Honduras,Bananas,2014,658888
+Honduras,Bananas,2015,727663
+Honduras,Bananas,2016,725402
+Honduras,Bananas,2017,679050
+Honduras,Bananas,2018,671663
+Honduras,Bananas,2019,636152
+Honduras,Bananas,2020,585929
+Honduras,Oranges,2010,224146
+Honduras,Oranges,2011,271736
+Honduras,Oranges,2012,276036
+Honduras,Oranges,2013,283202
+Honduras,Oranges,2014,134234
+Honduras,Oranges,2015,216645
+Honduras,Oranges,2016,297804
+Honduras,Oranges,2017,294241
+Honduras,Oranges,2018,271233
+Honduras,Oranges,2019,266586
+Honduras,Oranges,2020,267360
+Hungary,Apples,2010,496916
+Hungary,Apples,2011,292810
+Hungary,Apples,2012,650600
+Hungary,Apples,2013,591870
+Hungary,Apples,2014,779850
+Hungary,Apples,2015,511460
+Hungary,Apples,2016,497108
+Hungary,Apples,2017,473662
+Hungary,Apples,2018,678780
+Hungary,Apples,2019,498330
+Hungary,Apples,2020,398710
+Hungary,Bananas,2018,0
+Hungary,Bananas,2019,0
+Hungary,Bananas,2020,0
+Hungary,Oranges,2018,0
+Hungary,Oranges,2019,0
+Hungary,Oranges,2020,0
+India,Apples,2010,1777200
+India,Apples,2011,2891000
+India,Apples,2012,2203400
+India,Apples,2013,1915000
+India,Apples,2014,2497680
+India,Apples,2015,2134000
+India,Apples,2016,2521000
+India,Apples,2017,2265000
+India,Apples,2018,2327000
+India,Apples,2019,2316000
+India,Apples,2020,2734000
+India,Bananas,2010,29780000
+India,Bananas,2011,28455100
+India,Bananas,2012,26509000
+India,Bananas,2013,27575000
+India,Bananas,2014,29724550
+India,Bananas,2015,29221000
+India,Bananas,2016,29135000
+India,Bananas,2017,30477000
+India,Bananas,2018,30808000
+India,Bananas,2019,30460000
+India,Bananas,2020,31504000
+India,Oranges,2010,5966400
+India,Oranges,2011,4571000
+India,Oranges,2012,4360400
+India,Oranges,2013,6426200
+India,Oranges,2014,7317610
+India,Oranges,2015,7710000
+India,Oranges,2016,7581000
+India,Oranges,2017,7647000
+India,Oranges,2018,8367000
+India,Oranges,2019,9509000
+India,Oranges,2020,9854000
+Indonesia,Bananas,2010,5755073
+Indonesia,Bananas,2011,6132695
+Indonesia,Bananas,2012,6189052
+Indonesia,Bananas,2013,6279290
+Indonesia,Bananas,2014,6862568
+Indonesia,Bananas,2015,9496058
+Indonesia,Bananas,2016,7007125
+Indonesia,Bananas,2017,7162685
+Indonesia,Bananas,2018,7264379
+Indonesia,Bananas,2019,7280659
+Indonesia,Bananas,2020,8182756
+Indonesia,Oranges,2010,2028904
+Indonesia,Oranges,2011,1818949
+Indonesia,Oranges,2012,1611784
+Indonesia,Oranges,2013,1654745
+Indonesia,Oranges,2014,1926560
+Indonesia,Oranges,2015,1856174
+Indonesia,Oranges,2016,2138474
+Indonesia,Oranges,2017,2295325
+Indonesia,Oranges,2018,2510420
+Indonesia,Oranges,2019,2563486
+Indonesia,Oranges,2020,2722952
+Iran (Islamic Republic of),Apples,2010,2903572
+Iran (Islamic Republic of),Apples,2011,3112900
+Iran (Islamic Republic of),Apples,2012,3103883
+Iran (Islamic Republic of),Apples,2013,3035493
+Iran (Islamic Republic of),Apples,2014,2412494
+Iran (Islamic Republic of),Apples,2015,2500000
+Iran (Islamic Republic of),Apples,2016,2096749
+Iran (Islamic Republic of),Apples,2017,2398831
+Iran (Islamic Republic of),Apples,2018,1936697
+Iran (Islamic Republic of),Apples,2019,2241124
+Iran (Islamic Republic of),Apples,2020,2206723
+Iran (Islamic Republic of),Bananas,2010,102043
+Iran (Islamic Republic of),Bananas,2011,96814
+Iran (Islamic Republic of),Bananas,2012,91852
+Iran (Islamic Republic of),Bananas,2013,116037
+Iran (Islamic Republic of),Bananas,2014,127578
+Iran (Islamic Republic of),Bananas,2015,128844
+Iran (Islamic Republic of),Bananas,2016,129505
+Iran (Islamic Republic of),Bananas,2017,128643
+Iran (Islamic Republic of),Bananas,2018,128998
+Iran (Islamic Republic of),Bananas,2019,129049
+Iran (Islamic Republic of),Bananas,2020,128896
+Iran (Islamic Republic of),Oranges,2010,2176258
+Iran (Islamic Republic of),Oranges,2011,2293258
+Iran (Islamic Republic of),Oranges,2012,2456131
+Iran (Islamic Republic of),Oranges,2013,2547166
+Iran (Islamic Republic of),Oranges,2014,1530362
+Iran (Islamic Republic of),Oranges,2015,1530362
+Iran (Islamic Republic of),Oranges,2016,1561134
+Iran (Islamic Republic of),Oranges,2017,1755632
+Iran (Islamic Republic of),Oranges,2018,2184676
+Iran (Islamic Republic of),Oranges,2019,2308730
+Iran (Islamic Republic of),Oranges,2020,2225615
+Iraq,Apples,2010,39601
+Iraq,Apples,2011,45948
+Iraq,Apples,2012,52318
+Iraq,Apples,2013,62433
+Iraq,Apples,2014,63376
+Iraq,Apples,2015,42307
+Iraq,Apples,2016,44495
+Iraq,Apples,2017,47626
+Iraq,Apples,2018,49644
+Iraq,Apples,2019,75831
+Iraq,Apples,2020,79413
+Iraq,Oranges,2010,97907
+Iraq,Oranges,2011,90923
+Iraq,Oranges,2012,92481
+Iraq,Oranges,2013,112501
+Iraq,Oranges,2014,115562
+Iraq,Oranges,2015,67430
+Iraq,Oranges,2016,73460
+Iraq,Oranges,2017,74774
+Iraq,Oranges,2018,72816
+Iraq,Oranges,2019,133500
+Iraq,Oranges,2020,142717
+Ireland,Apples,2010,21100
+Ireland,Apples,2011,20400
+Ireland,Apples,2012,12100
+Ireland,Apples,2013,15200
+Ireland,Apples,2014,19600
+Ireland,Apples,2015,18800
+Ireland,Apples,2016,21800
+Ireland,Apples,2017,21369
+Ireland,Apples,2018,20140
+Ireland,Apples,2019,19880
+Ireland,Apples,2020,19470
+Ireland,Bananas,2018,0
+Ireland,Bananas,2019,0
+Ireland,Bananas,2020,0
+Ireland,Oranges,2018,0
+Ireland,Oranges,2019,0
+Ireland,Oranges,2020,0
+Israel,Apples,2010,131474
+Israel,Apples,2011,119231
+Israel,Apples,2012,108000
+Israel,Apples,2013,112128
+Israel,Apples,2014,77813
+Israel,Apples,2015,108000
+Israel,Apples,2016,100000
+Israel,Apples,2017,113000
+Israel,Apples,2018,111000
+Israel,Apples,2019,104000
+Israel,Apples,2020,104000
+Israel,Bananas,2010,101286
+Israel,Bananas,2011,112698
+Israel,Bananas,2012,126000
+Israel,Bananas,2013,128422
+Israel,Bananas,2014,126877
+Israel,Bananas,2015,114000
+Israel,Bananas,2016,136000
+Israel,Bananas,2017,126000
+Israel,Bananas,2018,135000
+Israel,Bananas,2019,144000
+Israel,Bananas,2020,153000
+Israel,Oranges,2010,134829
+Israel,Oranges,2011,90525
+Israel,Oranges,2012,111858
+Israel,Oranges,2013,90220
+Israel,Oranges,2014,77710
+Israel,Oranges,2015,71494
+Israel,Oranges,2016,76000
+Israel,Oranges,2017,89898
+Israel,Oranges,2018,79820
+Israel,Oranges,2019,74878
+Israel,Oranges,2020,75775
+Italy,Apples,2010,2204972
+Italy,Apples,2011,2411201
+Italy,Apples,2012,1991312
+Italy,Apples,2013,2216963
+Italy,Apples,2014,2473608
+Italy,Apples,2015,2473608
+Italy,Apples,2016,2455616
+Italy,Apples,2017,1921272
+Italy,Apples,2018,2466990
+Italy,Apples,2019,2303690
+Italy,Apples,2020,2462440
+Italy,Bananas,2010,354
+Italy,Bananas,2011,359
+Italy,Bananas,2012,340
+Italy,Bananas,2013,352
+Italy,Bananas,2014,353
+Italy,Bananas,2015,349
+Italy,Bananas,2016,345
+Italy,Bananas,2017,341
+Italy,Bananas,2018,0
+Italy,Bananas,2019,0
+Italy,Bananas,2020,0
+Italy,Oranges,2010,2393663
+Italy,Oranges,2011,2469939
+Italy,Oranges,2012,1770503
+Italy,Oranges,2013,1700778
+Italy,Oranges,2014,1668709
+Italy,Oranges,2015,1905103
+Italy,Oranges,2016,1590303
+Italy,Oranges,2017,1621682
+Italy,Oranges,2018,1592400
+Italy,Oranges,2019,1650210
+Italy,Oranges,2020,1772770
+Jamaica,Bananas,2010,53649
+Jamaica,Bananas,2011,46660
+Jamaica,Bananas,2012,47473
+Jamaica,Bananas,2013,37211
+Jamaica,Bananas,2014,51581
+Jamaica,Bananas,2015,54810
+Jamaica,Bananas,2016,58702
+Jamaica,Bananas,2017,64816
+Jamaica,Bananas,2018,66381
+Jamaica,Bananas,2019,63653
+Jamaica,Bananas,2020,62257
+Jamaica,Oranges,2010,108376
+Jamaica,Oranges,2011,100093
+Jamaica,Oranges,2012,91657
+Jamaica,Oranges,2013,79178
+Jamaica,Oranges,2014,67302
+Jamaica,Oranges,2015,74336
+Jamaica,Oranges,2016,74217
+Jamaica,Oranges,2017,72990
+Jamaica,Oranges,2018,70758
+Jamaica,Oranges,2019,72713
+Jamaica,Oranges,2020,70895
+Japan,Apples,2010,786500
+Japan,Apples,2011,655300
+Japan,Apples,2012,793800
+Japan,Apples,2013,741700
+Japan,Apples,2014,816300
+Japan,Apples,2015,811500
+Japan,Apples,2016,765000
+Japan,Apples,2017,735200
+Japan,Apples,2018,756100
+Japan,Apples,2019,701600
+Japan,Apples,2020,720405
+Japan,Bananas,2010,102
+Japan,Bananas,2011,74
+Japan,Bananas,2012,53
+Japan,Bananas,2013,43
+Japan,Bananas,2014,21
+Japan,Bananas,2015,8
+Japan,Bananas,2016,24
+Japan,Bananas,2017,18
+Japan,Bananas,2018,16
+Japan,Bananas,2019,19
+Japan,Bananas,2020,18
+Japan,Oranges,2010,59503
+Japan,Oranges,2011,47938
+Japan,Oranges,2012,37314
+Japan,Oranges,2013,31507
+Japan,Oranges,2014,27303
+Japan,Oranges,2015,27405
+Japan,Oranges,2016,28738
+Japan,Oranges,2017,27815
+Japan,Oranges,2018,27986
+Japan,Oranges,2019,28180
+Japan,Oranges,2020,27994
+Jordan,Apples,2010,28770
+Jordan,Apples,2011,39653
+Jordan,Apples,2012,36377
+Jordan,Apples,2013,40635
+Jordan,Apples,2014,39902
+Jordan,Apples,2015,56570
+Jordan,Apples,2016,55197
+Jordan,Apples,2017,24496
+Jordan,Apples,2018,20517
+Jordan,Apples,2019,21051
+Jordan,Apples,2020,25310
+Jordan,Bananas,2010,43753
+Jordan,Bananas,2011,48304
+Jordan,Bananas,2012,38852
+Jordan,Bananas,2013,42008
+Jordan,Bananas,2014,37489
+Jordan,Bananas,2015,46835
+Jordan,Bananas,2016,40996
+Jordan,Bananas,2017,33935
+Jordan,Bananas,2018,35456
+Jordan,Bananas,2019,32803
+Jordan,Bananas,2020,39300
+Jordan,Oranges,2010,43011
+Jordan,Oranges,2011,38709
+Jordan,Oranges,2012,40581
+Jordan,Oranges,2013,39976
+Jordan,Oranges,2014,38924
+Jordan,Oranges,2015,51754
+Jordan,Oranges,2016,51282
+Jordan,Oranges,2017,41218
+Jordan,Oranges,2018,45064
+Jordan,Oranges,2019,46247
+Jordan,Oranges,2020,47969
+Kazakhstan,Apples,2010,107150
+Kazakhstan,Apples,2011,114654
+Kazakhstan,Apples,2012,129700
+Kazakhstan,Apples,2013,143856
+Kazakhstan,Apples,2014,157870
+Kazakhstan,Apples,2015,147561
+Kazakhstan,Apples,2016,188099
+Kazakhstan,Apples,2017,181057
+Kazakhstan,Apples,2018,222482
+Kazakhstan,Apples,2019,216540
+Kazakhstan,Apples,2020,259128
+Kenya,Apples,2010,1195
+Kenya,Apples,2011,779
+Kenya,Apples,2012,1128
+Kenya,Apples,2013,396
+Kenya,Apples,2014,606
+Kenya,Apples,2015,589
+Kenya,Apples,2016,623
+Kenya,Apples,2017,300
+Kenya,Apples,2018,426
+Kenya,Apples,2019,261
+Kenya,Apples,2020,106
+Kenya,Bananas,2010,1583143
+Kenya,Bananas,2011,1226171
+Kenya,Bananas,2012,1207841
+Kenya,Bananas,2013,1374516
+Kenya,Bananas,2014,1644634
+Kenya,Bananas,2015,1290150
+Kenya,Bananas,2016,1288588
+Kenya,Bananas,2017,1434162
+Kenya,Bananas,2018,1414176
+Kenya,Bananas,2019,1715770
+Kenya,Bananas,2020,1856659
+Kenya,Oranges,2010,107735
+Kenya,Oranges,2011,65511
+Kenya,Oranges,2012,61030
+Kenya,Oranges,2013,99432
+Kenya,Oranges,2014,135263
+Kenya,Oranges,2015,107121
+Kenya,Oranges,2016,85233
+Kenya,Oranges,2017,72437
+Kenya,Oranges,2018,71617
+Kenya,Oranges,2019,73485
+Kenya,Oranges,2020,145445
+Kiribati,Bananas,2010,6742
+Kiribati,Bananas,2011,7000
+Kiribati,Bananas,2012,7000
+Kiribati,Bananas,2013,7110
+Kiribati,Bananas,2014,7238
+Kiribati,Bananas,2015,7561
+Kiribati,Bananas,2016,7303
+Kiribati,Bananas,2017,7367
+Kiribati,Bananas,2018,7410
+Kiribati,Bananas,2019,7360
+Kiribati,Bananas,2020,7379
+Kuwait,Bananas,2010,
+Kuwait,Bananas,2011,
+Kuwait,Bananas,2012,
+Kuwait,Bananas,2013,
+Kuwait,Bananas,2014,
+Kuwait,Bananas,2015,
+Kuwait,Bananas,2016,
+Kuwait,Bananas,2017,
+Kuwait,Bananas,2018,
+Kuwait,Bananas,2019,
+Kuwait,Bananas,2020,
+Kuwait,Oranges,2010,122
+Kuwait,Oranges,2011,132
+Kuwait,Oranges,2012,131
+Kuwait,Oranges,2013,144
+Kuwait,Oranges,2014,152
+Kuwait,Oranges,2015,406
+Kuwait,Oranges,2016,199
+Kuwait,Oranges,2017,257
+Kuwait,Oranges,2018,257
+Kuwait,Oranges,2019,175
+Kuwait,Oranges,2020,215
+Kyrgyzstan,Apples,2010,111000
+Kyrgyzstan,Apples,2011,127700
+Kyrgyzstan,Apples,2012,137000
+Kyrgyzstan,Apples,2013,143000
+Kyrgyzstan,Apples,2014,145000
+Kyrgyzstan,Apples,2015,128000
+Kyrgyzstan,Apples,2016,140176
+Kyrgyzstan,Apples,2017,137725
+Kyrgyzstan,Apples,2018,135301
+Kyrgyzstan,Apples,2019,137734
+Kyrgyzstan,Apples,2020,136920
+Lao People's Democratic Republic,Bananas,2010,178600
+Lao People's Democratic Republic,Bananas,2011,230000
+Lao People's Democratic Republic,Bananas,2012,365100
+Lao People's Democratic Republic,Bananas,2013,420425
+Lao People's Democratic Republic,Bananas,2014,508580
+Lao People's Democratic Republic,Bananas,2015,787000
+Lao People's Democratic Republic,Bananas,2016,796200
+Lao People's Democratic Republic,Bananas,2017,946820
+Lao People's Democratic Republic,Bananas,2018,970985
+Lao People's Democratic Republic,Bananas,2019,761602
+Lao People's Democratic Republic,Bananas,2020,706075
+Lao People's Democratic Republic,Oranges,2010,46683
+Lao People's Democratic Republic,Oranges,2011,45170
+Lao People's Democratic Republic,Oranges,2012,42000
+Lao People's Democratic Republic,Oranges,2013,42878
+Lao People's Democratic Republic,Oranges,2014,43688
+Lao People's Democratic Republic,Oranges,2015,45895
+Lao People's Democratic Republic,Oranges,2016,44154
+Lao People's Democratic Republic,Oranges,2017,46359
+Lao People's Democratic Republic,Oranges,2018,46029
+Lao People's Democratic Republic,Oranges,2019,46100
+Lao People's Democratic Republic,Oranges,2020,46172
+Latvia,Apples,2010,10325
+Latvia,Apples,2011,7501
+Latvia,Apples,2012,9449
+Latvia,Apples,2013,14751
+Latvia,Apples,2014,9623
+Latvia,Apples,2015,7815
+Latvia,Apples,2016,9854
+Latvia,Apples,2017,7464
+Latvia,Apples,2018,13900
+Latvia,Apples,2019,10390
+Latvia,Apples,2020,13900
+Latvia,Bananas,2018,0
+Latvia,Bananas,2019,0
+Latvia,Bananas,2020,0
+Latvia,Oranges,2018,0
+Latvia,Oranges,2019,0
+Latvia,Oranges,2020,0
+Lebanon,Apples,2010,154429
+Lebanon,Apples,2011,135807
+Lebanon,Apples,2012,125714
+Lebanon,Apples,2013,126485
+Lebanon,Apples,2014,180565
+Lebanon,Apples,2015,210424
+Lebanon,Apples,2016,344469
+Lebanon,Apples,2017,316155
+Lebanon,Apples,2018,278539
+Lebanon,Apples,2019,252758
+Lebanon,Apples,2020,245152
+Lebanon,Bananas,2010,87180
+Lebanon,Bananas,2011,79925
+Lebanon,Bananas,2012,63544
+Lebanon,Bananas,2013,59650
+Lebanon,Bananas,2014,78022
+Lebanon,Bananas,2015,85991
+Lebanon,Bananas,2016,109675
+Lebanon,Bananas,2017,78094
+Lebanon,Bananas,2018,74180
+Lebanon,Bananas,2019,82731
+Lebanon,Bananas,2020,82561
+Lebanon,Oranges,2010,118508
+Lebanon,Oranges,2011,155000
+Lebanon,Oranges,2012,170050
+Lebanon,Oranges,2013,165764
+Lebanon,Oranges,2014,171273
+Lebanon,Oranges,2015,176678
+Lebanon,Oranges,2016,188844
+Lebanon,Oranges,2017,143386
+Lebanon,Oranges,2018,137507
+Lebanon,Oranges,2019,161667
+Lebanon,Oranges,2020,159952
+Liberia,Bananas,2010,124500
+Liberia,Bananas,2011,125000
+Liberia,Bananas,2012,127000
+Liberia,Bananas,2013,130821
+Liberia,Bananas,2014,133308
+Liberia,Bananas,2015,135468
+Liberia,Bananas,2016,137198
+Liberia,Bananas,2017,135324
+Liberia,Bananas,2018,135997
+Liberia,Bananas,2019,136173
+Liberia,Bananas,2020,135831
+Liberia,Oranges,2010,8376
+Liberia,Oranges,2011,8000
+Liberia,Oranges,2012,8250
+Liberia,Oranges,2013,8072
+Liberia,Oranges,2014,8118
+Liberia,Oranges,2015,8062
+Liberia,Oranges,2016,8018
+Liberia,Oranges,2017,8027
+Liberia,Oranges,2018,7996
+Liberia,Oranges,2019,7947
+Liberia,Oranges,2020,7898
+Libya,Apples,2010,22000
+Libya,Apples,2011,20500
+Libya,Apples,2012,20500
+Libya,Apples,2013,20500
+Libya,Apples,2014,17460
+Libya,Apples,2015,14129
+Libya,Apples,2016,17363
+Libya,Apples,2017,16317
+Libya,Apples,2018,15936
+Libya,Apples,2019,16539
+Libya,Apples,2020,16264
+Libya,Bananas,2010,
+Libya,Bananas,2011,
+Libya,Bananas,2012,
+Libya,Bananas,2013,
+Libya,Bananas,2014,
+Libya,Bananas,2015,
+Libya,Bananas,2016,
+Libya,Bananas,2017,
+Libya,Bananas,2018,
+Libya,Bananas,2019,
+Libya,Bananas,2020,
+Libya,Oranges,2010,46400
+Libya,Oranges,2011,48207
+Libya,Oranges,2012,50000
+Libya,Oranges,2013,51668
+Libya,Oranges,2014,53345
+Libya,Oranges,2015,49419
+Libya,Oranges,2016,51478
+Libya,Oranges,2017,51160
+Libya,Oranges,2018,52241
+Libya,Oranges,2019,52795
+Libya,Oranges,2020,53349
+Lithuania,Apples,2010,34020
+Lithuania,Apples,2011,49099
+Lithuania,Apples,2012,72497
+Lithuania,Apples,2013,62586
+Lithuania,Apples,2014,60177
+Lithuania,Apples,2015,73583
+Lithuania,Apples,2016,65579
+Lithuania,Apples,2017,87367
+Lithuania,Apples,2018,80680
+Lithuania,Apples,2019,32070
+Lithuania,Apples,2020,51880
+Lithuania,Bananas,2018,0
+Lithuania,Bananas,2019,0
+Lithuania,Bananas,2020,0
+Lithuania,Oranges,2018,0
+Lithuania,Oranges,2019,0
+Lithuania,Oranges,2020,0
+Luxembourg,Apples,2010,2406
+Luxembourg,Apples,2011,2130
+Luxembourg,Apples,2012,1816
+Luxembourg,Apples,2013,1926
+Luxembourg,Apples,2014,2615
+Luxembourg,Apples,2015,2419
+Luxembourg,Apples,2016,1510
+Luxembourg,Apples,2017,983
+Luxembourg,Apples,2018,2080
+Luxembourg,Apples,2019,1930
+Luxembourg,Apples,2020,2320
+Luxembourg,Bananas,2018,0
+Luxembourg,Bananas,2019,0
+Luxembourg,Bananas,2020,0
+Luxembourg,Oranges,2018,0
+Luxembourg,Oranges,2019,0
+Luxembourg,Oranges,2020,0
+Madagascar,Apples,2010,7037
+Madagascar,Apples,2011,7030
+Madagascar,Apples,2012,7000
+Madagascar,Apples,2013,6900
+Madagascar,Apples,2014,6971
+Madagascar,Apples,2015,7119
+Madagascar,Apples,2016,7145
+Madagascar,Apples,2017,7115
+Madagascar,Apples,2018,7100
+Madagascar,Apples,2019,7108
+Madagascar,Apples,2020,7115
+Madagascar,Bananas,2010,339885
+Madagascar,Bananas,2011,350000
+Madagascar,Bananas,2012,356000
+Madagascar,Bananas,2013,355000
+Madagascar,Bananas,2014,361053
+Madagascar,Bananas,2015,373021
+Madagascar,Bananas,2016,381155
+Madagascar,Bananas,2017,371743
+Madagascar,Bananas,2018,375306
+Madagascar,Bananas,2019,376068
+Madagascar,Bananas,2020,374372
+Madagascar,Oranges,2010,70000
+Madagascar,Oranges,2011,82595
+Madagascar,Oranges,2012,87000
+Madagascar,Oranges,2013,86500
+Madagascar,Oranges,2014,84741
+Madagascar,Oranges,2015,83901
+Madagascar,Oranges,2016,83673
+Madagascar,Oranges,2017,83960
+Madagascar,Oranges,2018,83991
+Madagascar,Oranges,2019,83993
+Madagascar,Oranges,2020,83994
+Malawi,Apples,2010,
+Malawi,Apples,2011,
+Malawi,Apples,2012,
+Malawi,Apples,2013,
+Malawi,Apples,2014,3203
+Malawi,Apples,2015,3308
+Malawi,Apples,2016,3313
+Malawi,Apples,2017,3447
+Malawi,Apples,2018,2639
+Malawi,Apples,2019,2979
+Malawi,Apples,2020,3132
+Malawi,Bananas,2010,394056
+Malawi,Bananas,2011,391060
+Malawi,Bananas,2012,380000
+Malawi,Bananas,2013,386988
+Malawi,Bananas,2014,393986
+Malawi,Bananas,2015,420942
+Malawi,Bananas,2016,400638
+Malawi,Bananas,2017,405189
+Malawi,Bananas,2018,408923
+Malawi,Bananas,2019,404917
+Malawi,Bananas,2020,406343
+Malawi,Oranges,2010,
+Malawi,Oranges,2011,
+Malawi,Oranges,2012,
+Malawi,Oranges,2013,
+Malawi,Oranges,2014,72857
+Malawi,Oranges,2015,75969
+Malawi,Oranges,2016,73654
+Malawi,Oranges,2017,77943
+Malawi,Oranges,2018,58453
+Malawi,Oranges,2019,66846
+Malawi,Oranges,2020,69099
+Malaysia,Bananas,2010,332639
+Malaysia,Bananas,2011,306283
+Malaysia,Bananas,2012,289034
+Malaysia,Bananas,2013,288677
+Malaysia,Bananas,2014,303107
+Malaysia,Bananas,2015,315500
+Malaysia,Bananas,2016,309508
+Malaysia,Bananas,2017,350493
+Malaysia,Bananas,2018,330957
+Malaysia,Bananas,2019,325447
+Malaysia,Bananas,2020,312968
+Malaysia,Oranges,2010,21009
+Malaysia,Oranges,2011,22580
+Malaysia,Oranges,2012,16252
+Malaysia,Oranges,2013,18666
+Malaysia,Oranges,2014,16622
+Malaysia,Oranges,2015,15537
+Malaysia,Oranges,2016,13448
+Malaysia,Oranges,2017,13245
+Malaysia,Oranges,2018,10140
+Malaysia,Oranges,2019,11006
+Malaysia,Oranges,2020,10511
+Maldives,Bananas,2010,3245
+Maldives,Bananas,2011,1140
+Maldives,Bananas,2012,547
+Maldives,Bananas,2013,154
+Maldives,Bananas,2014,646
+Maldives,Bananas,2015,892
+Maldives,Bananas,2016,1119
+Maldives,Bananas,2017,1099
+Maldives,Bananas,2018,334
+Maldives,Bananas,2019,220
+Maldives,Bananas,2020,242
+Mali,Bananas,2010,172182
+Mali,Bananas,2011,137763
+Mali,Bananas,2012,149539
+Mali,Bananas,2013,165472
+Mali,Bananas,2014,136362
+Mali,Bananas,2015,153370
+Mali,Bananas,2016,174525
+Mali,Bananas,2017,191228
+Mali,Bananas,2018,196421
+Mali,Bananas,2019,196421
+Mali,Bananas,2020,200487
+Mali,Oranges,2010,388584
+Mali,Oranges,2011,337118
+Mali,Oranges,2012,384639
+Mali,Oranges,2013,493369
+Mali,Oranges,2014,91531
+Mali,Oranges,2015,94105
+Mali,Oranges,2016,486699
+Mali,Oranges,2017,487794
+Mali,Oranges,2018,72855
+Mali,Oranges,2019,72855
+Mali,Oranges,2020,354636
+Malta,Apples,2010,51
+Malta,Apples,2011,42
+Malta,Apples,2012,27
+Malta,Apples,2013,35
+Malta,Apples,2014,39
+Malta,Apples,2015,28
+Malta,Apples,2016,16
+Malta,Apples,2017,21
+Malta,Apples,2018,20
+Malta,Apples,2019,10
+Malta,Apples,2020,10
+Malta,Bananas,2018,0
+Malta,Bananas,2019,0
+Malta,Bananas,2020,0
+Malta,Oranges,2010,1281
+Malta,Oranges,2011,1467
+Malta,Oranges,2012,1032
+Malta,Oranges,2013,815
+Malta,Oranges,2014,1115
+Malta,Oranges,2015,1187
+Malta,Oranges,2016,966
+Malta,Oranges,2017,892
+Malta,Oranges,2018,810
+Malta,Oranges,2019,690
+Malta,Oranges,2020,570
+Mauritius,Bananas,2010,11936
+Mauritius,Bananas,2011,10544
+Mauritius,Bananas,2012,10196
+Mauritius,Bananas,2013,10181
+Mauritius,Bananas,2014,8833
+Mauritius,Bananas,2015,7965
+Mauritius,Bananas,2016,7731
+Mauritius,Bananas,2017,8644
+Mauritius,Bananas,2018,7333
+Mauritius,Bananas,2019,7266
+Mauritius,Bananas,2020,8512
+Mexico,Apples,2010,584655
+Mexico,Apples,2011,630533
+Mexico,Apples,2012,375045
+Mexico,Apples,2013,858608
+Mexico,Apples,2014,716865
+Mexico,Apples,2015,750325
+Mexico,Apples,2016,716931
+Mexico,Apples,2017,714149
+Mexico,Apples,2018,659692
+Mexico,Apples,2019,761483
+Mexico,Apples,2020,714203
+Mexico,Bananas,2010,2103361
+Mexico,Bananas,2011,2138687
+Mexico,Bananas,2012,2203861
+Mexico,Bananas,2013,2127772
+Mexico,Bananas,2014,2150520
+Mexico,Bananas,2015,2262028
+Mexico,Bananas,2016,2384778
+Mexico,Bananas,2017,2229519
+Mexico,Bananas,2018,2354479
+Mexico,Bananas,2019,2399490
+Mexico,Bananas,2020,2464171
+Mexico,Oranges,2010,4051631
+Mexico,Oranges,2011,4079678
+Mexico,Oranges,2012,3666790
+Mexico,Oranges,2013,4409968
+Mexico,Oranges,2014,4533428
+Mexico,Oranges,2015,4515520
+Mexico,Oranges,2016,4603253
+Mexico,Oranges,2017,4629758
+Mexico,Oranges,2018,4737990
+Mexico,Oranges,2019,4736715
+Mexico,Oranges,2020,4648620
+Micronesia (Federated States of),Bananas,2010,2036
+Micronesia (Federated States of),Bananas,2011,2033
+Micronesia (Federated States of),Bananas,2012,2000
+Micronesia (Federated States of),Bananas,2013,2035
+Micronesia (Federated States of),Bananas,2014,2039
+Micronesia (Federated States of),Bananas,2015,2037
+Micronesia (Federated States of),Bananas,2016,2039
+Micronesia (Federated States of),Bananas,2017,2039
+Micronesia (Federated States of),Bananas,2018,2038
+Micronesia (Federated States of),Bananas,2019,2039
+Micronesia (Federated States of),Bananas,2020,2039
+Montenegro,Apples,2010,2116
+Montenegro,Apples,2011,2651
+Montenegro,Apples,2012,2027
+Montenegro,Apples,2013,2518
+Montenegro,Apples,2014,2656
+Montenegro,Apples,2015,2817
+Montenegro,Apples,2016,1638
+Montenegro,Apples,2017,1347
+Montenegro,Apples,2018,1688
+Montenegro,Apples,2019,1490
+Montenegro,Apples,2020,1714
+Montenegro,Oranges,2010,8491
+Montenegro,Oranges,2011,7912
+Montenegro,Oranges,2012,8821
+Montenegro,Oranges,2013,8759
+Montenegro,Oranges,2014,8772
+Montenegro,Oranges,2015,9073
+Montenegro,Oranges,2016,9302
+Montenegro,Oranges,2017,9049
+Montenegro,Oranges,2018,9142
+Montenegro,Oranges,2019,9164
+Montenegro,Oranges,2020,9118
+Morocco,Apples,2010,444861
+Morocco,Apples,2011,512407
+Morocco,Apples,2012,485642
+Morocco,Apples,2013,583230
+Morocco,Apples,2014,536199
+Morocco,Apples,2015,674153
+Morocco,Apples,2016,406379
+Morocco,Apples,2017,820547
+Morocco,Apples,2018,696950
+Morocco,Apples,2019,809762
+Morocco,Apples,2020,778866
+Morocco,Bananas,2010,289171
+Morocco,Bananas,2011,277297
+Morocco,Bananas,2012,222267
+Morocco,Bananas,2013,303329
+Morocco,Bananas,2014,342475
+Morocco,Bananas,2015,334942
+Morocco,Bananas,2016,333820
+Morocco,Bananas,2017,333619
+Morocco,Bananas,2018,319950
+Morocco,Bananas,2019,349924
+Morocco,Bananas,2020,340958
+Morocco,Oranges,2010,849197
+Morocco,Oranges,2011,858587
+Morocco,Oranges,2012,961738
+Morocco,Oranges,2013,759290
+Morocco,Oranges,2014,1001246
+Morocco,Oranges,2015,869020
+Morocco,Oranges,2016,909237
+Morocco,Oranges,2017,1037218
+Morocco,Oranges,2018,1019150
+Morocco,Oranges,2019,1182478
+Morocco,Oranges,2020,806342
+Mozambique,Bananas,2010,320640
+Mozambique,Bananas,2011,340674
+Mozambique,Bananas,2012,470000
+Mozambique,Bananas,2013,570000
+Mozambique,Bananas,2014,575000
+Mozambique,Bananas,2015,670000
+Mozambique,Bananas,2016,517500
+Mozambique,Bananas,2017,643700
+Mozambique,Bananas,2018,668631
+Mozambique,Bananas,2019,733150
+Mozambique,Bananas,2020,774514
+Mozambique,Oranges,2010,31706
+Mozambique,Oranges,2011,36442
+Mozambique,Oranges,2012,46000
+Mozambique,Oranges,2013,52000
+Mozambique,Oranges,2014,53000
+Mozambique,Oranges,2015,55000
+Mozambique,Oranges,2016,65000
+Mozambique,Oranges,2017,67600
+Mozambique,Oranges,2018,66000
+Mozambique,Oranges,2019,67000
+Mozambique,Oranges,2020,68000
+Namibia,Oranges,2010,1687
+Namibia,Oranges,2011,1850
+Namibia,Oranges,2012,1899
+Namibia,Oranges,2013,1930
+Namibia,Oranges,2014,1994
+Namibia,Oranges,2015,2054
+Namibia,Oranges,2016,2006
+Namibia,Oranges,2017,2018
+Namibia,Oranges,2018,2026
+Namibia,Oranges,2019,2016
+Namibia,Oranges,2020,2020
+Nepal,Apples,2010,41754
+Nepal,Apples,2011,42704
+Nepal,Apples,2012,48946
+Nepal,Apples,2013,42814
+Nepal,Apples,2014,35921
+Nepal,Apples,2015,43502
+Nepal,Apples,2016,41011
+Nepal,Apples,2017,19850
+Nepal,Apples,2018,28895
+Nepal,Apples,2019,31386
+Nepal,Apples,2020,45205
+Nepal,Bananas,2010,91042
+Nepal,Bananas,2011,121742
+Nepal,Bananas,2012,168484
+Nepal,Bananas,2013,182000
+Nepal,Bananas,2014,208245
+Nepal,Bananas,2015,234320
+Nepal,Bananas,2016,236195
+Nepal,Bananas,2017,247622
+Nepal,Bananas,2018,254403
+Nepal,Bananas,2019,278890
+Nepal,Bananas,2020,254161
+Nepal,Oranges,2010,50518
+Nepal,Oranges,2011,50679
+Nepal,Oranges,2012,39685
+Nepal,Oranges,2013,34765
+Nepal,Oranges,2014,35426
+Nepal,Oranges,2015,34675
+Nepal,Oranges,2016,33558
+Nepal,Oranges,2017,39113
+Nepal,Oranges,2018,41556
+Nepal,Oranges,2019,43773
+Nepal,Oranges,2020,49370
+Netherlands,Apples,2010,334000
+Netherlands,Apples,2011,418000
+Netherlands,Apples,2012,281000
+Netherlands,Apples,2013,314000
+Netherlands,Apples,2014,353000
+Netherlands,Apples,2015,336000
+Netherlands,Apples,2016,317000
+Netherlands,Apples,2017,227000
+Netherlands,Apples,2018,269100
+Netherlands,Apples,2019,273000
+Netherlands,Apples,2020,220000
+Netherlands,Bananas,2018,0
+Netherlands,Bananas,2019,0
+Netherlands,Bananas,2020,0
+Netherlands,Oranges,2018,0
+Netherlands,Oranges,2019,0
+Netherlands,Oranges,2020,0
+New Caledonia,Bananas,2010,1089
+New Caledonia,Bananas,2011,768
+New Caledonia,Bananas,2012,1025
+New Caledonia,Bananas,2013,1044
+New Caledonia,Bananas,2014,1006
+New Caledonia,Bananas,2015,2156
+New Caledonia,Bananas,2016,2447
+New Caledonia,Bananas,2017,1598
+New Caledonia,Bananas,2018,1967
+New Caledonia,Bananas,2019,2160
+New Caledonia,Bananas,2020,2364
+New Caledonia,Oranges,2010,1224
+New Caledonia,Oranges,2011,1197
+New Caledonia,Oranges,2012,1395
+New Caledonia,Oranges,2013,1345
+New Caledonia,Oranges,2014,1110
+New Caledonia,Oranges,2015,1482
+New Caledonia,Oranges,2016,988
+New Caledonia,Oranges,2017,1169
+New Caledonia,Oranges,2018,1186
+New Caledonia,Oranges,2019,1482
+New Caledonia,Oranges,2020,1434
+New Zealand,Apples,2010,444154
+New Zealand,Apples,2011,439418
+New Zealand,Apples,2012,437107
+New Zealand,Apples,2013,444178
+New Zealand,Apples,2014,490000
+New Zealand,Apples,2015,540000
+New Zealand,Apples,2016,550000
+New Zealand,Apples,2017,470000
+New Zealand,Apples,2018,480000
+New Zealand,Apples,2019,557680
+New Zealand,Apples,2020,562058
+New Zealand,Oranges,2010,8687
+New Zealand,Oranges,2011,8256
+New Zealand,Oranges,2012,9214
+New Zealand,Oranges,2013,8814
+New Zealand,Oranges,2014,8753
+New Zealand,Oranges,2015,8284
+New Zealand,Oranges,2016,8027
+New Zealand,Oranges,2017,7515
+New Zealand,Oranges,2018,7715
+New Zealand,Oranges,2019,8404
+New Zealand,Oranges,2020,8595
+Nicaragua,Bananas,2010,35214
+Nicaragua,Bananas,2011,39727
+Nicaragua,Bananas,2012,40874
+Nicaragua,Bananas,2013,37149
+Nicaragua,Bananas,2014,60339
+Nicaragua,Bananas,2015,78379
+Nicaragua,Bananas,2016,106438
+Nicaragua,Bananas,2017,112910
+Nicaragua,Bananas,2018,108834
+Nicaragua,Bananas,2019,98773
+Nicaragua,Bananas,2020,102628
+Nicaragua,Oranges,2010,92571
+Nicaragua,Oranges,2011,95776
+Nicaragua,Oranges,2012,100000
+Nicaragua,Oranges,2013,101776
+Nicaragua,Oranges,2014,106458
+Nicaragua,Oranges,2015,112984
+Nicaragua,Oranges,2016,107073
+Nicaragua,Oranges,2017,108839
+Nicaragua,Oranges,2018,109632
+Nicaragua,Oranges,2019,108514
+Nicaragua,Oranges,2020,108995
+Niue,Bananas,2010,80
+Niue,Bananas,2011,80
+Niue,Bananas,2012,80
+Niue,Bananas,2013,80
+Niue,Bananas,2014,80
+Niue,Bananas,2015,81
+Niue,Bananas,2016,81
+Niue,Bananas,2017,81
+Niue,Bananas,2018,81
+Niue,Bananas,2019,81
+Niue,Bananas,2020,81
+North Macedonia,Apples,2010,121383
+North Macedonia,Apples,2011,124552
+North Macedonia,Apples,2012,127171
+North Macedonia,Apples,2013,112929
+North Macedonia,Apples,2014,95684
+North Macedonia,Apples,2015,136931
+North Macedonia,Apples,2016,101088
+North Macedonia,Apples,2017,43366
+North Macedonia,Apples,2018,140296
+North Macedonia,Apples,2019,88701
+North Macedonia,Apples,2020,105794
+Norway,Apples,2010,11491
+Norway,Apples,2011,8469
+Norway,Apples,2012,10976
+Norway,Apples,2013,9769
+Norway,Apples,2014,13322
+Norway,Apples,2015,10800
+Norway,Apples,2016,12522
+Norway,Apples,2017,12664
+Norway,Apples,2018,14878
+Norway,Apples,2019,15593
+Norway,Apples,2020,12050
+Oman,Bananas,2010,56686
+Oman,Bananas,2011,61584
+Oman,Bananas,2012,56790
+Oman,Bananas,2013,19970
+Oman,Bananas,2014,18184
+Oman,Bananas,2015,16578
+Oman,Bananas,2016,16578
+Oman,Bananas,2017,18397
+Oman,Bananas,2018,18265
+Oman,Bananas,2019,18447
+Oman,Bananas,2020,18447
+Pakistan,Apples,2010,525855
+Pakistan,Apples,2011,598804
+Pakistan,Apples,2012,556307
+Pakistan,Apples,2013,606016
+Pakistan,Apples,2014,616748
+Pakistan,Apples,2015,620481
+Pakistan,Apples,2016,669912
+Pakistan,Apples,2017,564693
+Pakistan,Apples,2018,543645
+Pakistan,Apples,2019,603922
+Pakistan,Apples,2020,625372
+Pakistan,Bananas,2010,154825
+Pakistan,Bananas,2011,139100
+Pakistan,Bananas,2012,96545
+Pakistan,Bananas,2013,115552
+Pakistan,Bananas,2014,118756
+Pakistan,Bananas,2015,118044
+Pakistan,Bananas,2016,134634
+Pakistan,Bananas,2017,137449
+Pakistan,Bananas,2018,135056
+Pakistan,Bananas,2019,135660
+Pakistan,Bananas,2020,150921
+Pakistan,Oranges,2010,1505000
+Pakistan,Oranges,2011,1387540
+Pakistan,Oranges,2012,1503140
+Pakistan,Oranges,2013,1401180
+Pakistan,Oranges,2014,1600000
+Pakistan,Oranges,2015,1680000
+Pakistan,Oranges,2016,1650000
+Pakistan,Oranges,2017,1597229
+Pakistan,Oranges,2018,1603356
+Pakistan,Oranges,2019,1614590
+Pakistan,Oranges,2020,1624994
+Palestine,Apples,2010,490
+Palestine,Apples,2011,833
+Palestine,Apples,2012,910
+Palestine,Apples,2013,1005
+Palestine,Apples,2014,1250
+Palestine,Apples,2015,800
+Palestine,Apples,2016,860
+Palestine,Apples,2017,919
+Palestine,Apples,2018,932
+Palestine,Apples,2019,937
+Palestine,Apples,2020,939
+Palestine,Bananas,2010,3666
+Palestine,Bananas,2011,4072
+Palestine,Bananas,2012,3915
+Palestine,Bananas,2013,3964
+Palestine,Bananas,2014,3840
+Palestine,Bananas,2015,3220
+Palestine,Bananas,2016,2880
+Palestine,Bananas,2017,2083
+Palestine,Bananas,2018,1724
+Palestine,Bananas,2019,1510
+Palestine,Bananas,2020,1428
+Palestine,Oranges,2010,16714
+Palestine,Oranges,2011,16061
+Palestine,Oranges,2012,17239
+Palestine,Oranges,2013,18158
+Palestine,Oranges,2014,18820
+Palestine,Oranges,2015,8410
+Palestine,Oranges,2016,11400
+Palestine,Oranges,2017,6842
+Palestine,Oranges,2018,4809
+Palestine,Oranges,2019,4036
+Palestine,Oranges,2020,4036
+Panama,Bananas,2010,338280
+Panama,Bananas,2011,328368
+Panama,Bananas,2012,307583
+Panama,Bananas,2013,314188
+Panama,Bananas,2014,318955
+Panama,Bananas,2015,333878
+Panama,Bananas,2016,311060
+Panama,Bananas,2017,358925
+Panama,Bananas,2018,371520
+Panama,Bananas,2019,314377
+Panama,Bananas,2020,285188
+Panama,Oranges,2010,50722
+Panama,Oranges,2011,44006
+Panama,Oranges,2012,44961
+Panama,Oranges,2013,45936
+Panama,Oranges,2014,46933
+Panama,Oranges,2015,47952
+Panama,Oranges,2016,39536
+Panama,Oranges,2017,40394
+Panama,Oranges,2018,41270
+Panama,Oranges,2019,41988
+Panama,Oranges,2020,40506
+Papua New Guinea,Bananas,2010,1050000
+Papua New Guinea,Bananas,2011,1100000
+Papua New Guinea,Bananas,2012,1180000
+Papua New Guinea,Bananas,2013,1247211
+Papua New Guinea,Bananas,2014,1316185
+Papua New Guinea,Bananas,2015,1251160
+Papua New Guinea,Bananas,2016,1245908
+Papua New Guinea,Bananas,2017,1271084
+Papua New Guinea,Bananas,2018,1256051
+Papua New Guinea,Bananas,2019,1257681
+Papua New Guinea,Bananas,2020,1261605
+Paraguay,Apples,2010,690
+Paraguay,Apples,2011,697
+Paraguay,Apples,2012,705
+Paraguay,Apples,2013,710
+Paraguay,Apples,2014,714
+Paraguay,Apples,2015,614
+Paraguay,Apples,2016,679
+Paraguay,Apples,2017,669
+Paraguay,Apples,2018,654
+Paraguay,Apples,2019,667
+Paraguay,Apples,2020,663
+Paraguay,Bananas,2010,79856
+Paraguay,Bananas,2011,60022
+Paraguay,Bananas,2012,60022
+Paraguay,Bananas,2013,62400
+Paraguay,Bananas,2014,70200
+Paraguay,Bananas,2015,70266
+Paraguay,Bananas,2016,71870
+Paraguay,Bananas,2017,72266
+Paraguay,Bananas,2018,75868
+Paraguay,Bananas,2019,89996
+Paraguay,Bananas,2020,94486
+Paraguay,Oranges,2010,229898
+Paraguay,Oranges,2011,229898
+Paraguay,Oranges,2012,229898
+Paraguay,Oranges,2013,229530
+Paraguay,Oranges,2014,231000
+Paraguay,Oranges,2015,222725
+Paraguay,Oranges,2016,223426
+Paraguay,Oranges,2017,223426
+Paraguay,Oranges,2018,223426
+Paraguay,Oranges,2019,225660
+Paraguay,Oranges,2020,228160
+Peru,Apples,2010,143861
+Peru,Apples,2011,149561
+Peru,Apples,2012,146774
+Peru,Apples,2013,156350
+Peru,Apples,2014,159879
+Peru,Apples,2015,159550
+Peru,Apples,2016,158098
+Peru,Apples,2017,149787
+Peru,Apples,2018,140571
+Peru,Apples,2019,144868
+Peru,Apples,2020,139392
+Peru,Bananas,2010,2007284
+Peru,Bananas,2011,1968051
+Peru,Bananas,2012,2082089
+Peru,Bananas,2013,2114853
+Peru,Bananas,2014,2125839
+Peru,Bananas,2015,2145361
+Peru,Bananas,2016,2073995
+Peru,Bananas,2017,1981047
+Peru,Bananas,2018,2194858
+Peru,Bananas,2019,2252172
+Peru,Bananas,2020,2314514
+Peru,Oranges,2010,394573
+Peru,Oranges,2011,418631
+Peru,Oranges,2012,428753
+Peru,Oranges,2013,436388
+Peru,Oranges,2014,450423
+Peru,Oranges,2015,456154
+Peru,Oranges,2016,490869
+Peru,Oranges,2017,498454
+Peru,Oranges,2018,502843
+Peru,Oranges,2019,509768
+Peru,Oranges,2020,554818
+Philippines,Bananas,2010,9101341
+Philippines,Bananas,2011,9165046
+Philippines,Bananas,2012,9226768
+Philippines,Bananas,2013,8646417
+Philippines,Bananas,2014,5707074
+Philippines,Bananas,2015,5840124
+Philippines,Bananas,2016,5829142
+Philippines,Bananas,2017,6041369
+Philippines,Bananas,2018,6144374
+Philippines,Bananas,2019,6049601
+Philippines,Bananas,2020,5955311
+Philippines,Oranges,2010,4337
+Philippines,Oranges,2011,3984
+Philippines,Oranges,2012,3827
+Philippines,Oranges,2013,3513
+Philippines,Oranges,2014,3325
+Philippines,Oranges,2015,3219
+Philippines,Oranges,2016,2861
+Philippines,Oranges,2017,2634
+Philippines,Oranges,2018,2365
+Philippines,Oranges,2019,2114
+Philippines,Oranges,2020,1783
+Poland,Apples,2010,1877906
+Poland,Apples,2011,2493078
+Poland,Apples,2012,2877336
+Poland,Apples,2013,3085074
+Poland,Apples,2014,3195299
+Poland,Apples,2015,3168818
+Poland,Apples,2016,3604271
+Poland,Apples,2017,2441393
+Poland,Apples,2018,3999520
+Poland,Apples,2019,3080600
+Poland,Apples,2020,3554300
+Poland,Bananas,2018,0
+Poland,Bananas,2019,0
+Poland,Bananas,2020,0
+Poland,Oranges,2018,0
+Poland,Oranges,2019,0
+Poland,Oranges,2020,0
+Portugal,Apples,2010,212902
+Portugal,Apples,2011,247229
+Portugal,Apples,2012,220761
+Portugal,Apples,2013,287314
+Portugal,Apples,2014,273721
+Portugal,Apples,2015,324994
+Portugal,Apples,2016,241611
+Portugal,Apples,2017,329371
+Portugal,Apples,2018,263960
+Portugal,Apples,2019,370710
+Portugal,Apples,2020,286080
+Portugal,Bananas,2010,20944
+Portugal,Bananas,2011,20917
+Portugal,Bananas,2012,22528
+Portugal,Bananas,2013,21204
+Portugal,Bananas,2014,24208
+Portugal,Bananas,2015,24258
+Portugal,Bananas,2016,26224
+Portugal,Bananas,2017,27844
+Portugal,Bananas,2018,22650
+Portugal,Bananas,2019,27100
+Portugal,Bananas,2020,26300
+Portugal,Oranges,2010,193885
+Portugal,Oranges,2011,228101
+Portugal,Oranges,2012,208980
+Portugal,Oranges,2013,236800
+Portugal,Oranges,2014,251519
+Portugal,Oranges,2015,246639
+Portugal,Oranges,2016,299583
+Portugal,Oranges,2017,319743
+Portugal,Oranges,2018,340820
+Portugal,Oranges,2019,346510
+Portugal,Oranges,2020,355280
+Puerto Rico,Bananas,2010,61874
+Puerto Rico,Bananas,2011,63944
+Puerto Rico,Bananas,2012,66100
+Puerto Rico,Bananas,2013,68312
+Puerto Rico,Bananas,2014,74031
+Puerto Rico,Bananas,2015,78311
+Puerto Rico,Bananas,2016,76477
+Puerto Rico,Bananas,2017,72996
+Puerto Rico,Bananas,2018,74716
+Puerto Rico,Bananas,2019,75920
+Puerto Rico,Bananas,2020,77123
+Puerto Rico,Oranges,2010,15603
+Puerto Rico,Oranges,2011,15092
+Puerto Rico,Oranges,2012,14560
+Puerto Rico,Oranges,2013,14078
+Puerto Rico,Oranges,2014,10966
+Puerto Rico,Oranges,2015,13177
+Puerto Rico,Oranges,2016,12740
+Puerto Rico,Oranges,2017,13196
+Puerto Rico,Oranges,2018,12948
+Puerto Rico,Oranges,2019,12681
+Puerto Rico,Oranges,2020,12415
+Republic of Korea,Apples,2010,460285
+Republic of Korea,Apples,2011,379541
+Republic of Korea,Apples,2012,394596
+Republic of Korea,Apples,2013,493701
+Republic of Korea,Apples,2014,474712
+Republic of Korea,Apples,2015,582846
+Republic of Korea,Apples,2016,576369
+Republic of Korea,Apples,2017,545349
+Republic of Korea,Apples,2018,475303
+Republic of Korea,Apples,2019,535324
+Republic of Korea,Apples,2020,422115
+Republic of Korea,Bananas,2010,
+Republic of Korea,Bananas,2011,
+Republic of Korea,Bananas,2012,
+Republic of Korea,Bananas,2013,
+Republic of Korea,Bananas,2014,
+Republic of Korea,Bananas,2015,
+Republic of Korea,Bananas,2016,
+Republic of Korea,Bananas,2017,
+Republic of Korea,Bananas,2018,
+Republic of Korea,Bananas,2019,
+Republic of Korea,Bananas,2020,
+Republic of Moldova,Apples,2010,207903
+Republic of Moldova,Apples,2011,268842
+Republic of Moldova,Apples,2012,281849
+Republic of Moldova,Apples,2013,307246
+Republic of Moldova,Apples,2014,370024
+Republic of Moldova,Apples,2015,307660
+Republic of Moldova,Apples,2016,411768
+Republic of Moldova,Apples,2017,487161
+Republic of Moldova,Apples,2018,665184
+Republic of Moldova,Apples,2019,610921
+Republic of Moldova,Apples,2020,480368
+Romania,Apples,2010,552860
+Romania,Apples,2011,620362
+Romania,Apples,2012,462935
+Romania,Apples,2013,513580
+Romania,Apples,2014,513195
+Romania,Apples,2015,476059
+Romania,Apples,2016,467259
+Romania,Apples,2017,348656
+Romania,Apples,2018,634770
+Romania,Apples,2019,492700
+Romania,Apples,2020,537470
+Romania,Bananas,2018,0
+Romania,Bananas,2019,0
+Romania,Bananas,2020,0
+Romania,Oranges,2018,0
+Romania,Oranges,2019,0
+Romania,Oranges,2020,0
+Russian Federation,Apples,2010,992000
+Russian Federation,Apples,2011,1198000
+Russian Federation,Apples,2012,1403000
+Russian Federation,Apples,2013,1573000
+Russian Federation,Apples,2014,1624000
+Russian Federation,Apples,2015,1612700
+Russian Federation,Apples,2016,1701100
+Russian Federation,Apples,2017,1493600
+Russian Federation,Apples,2018,1859400
+Russian Federation,Apples,2019,1950800
+Russian Federation,Apples,2020,2040700
+Russian Federation,Oranges,2010,130
+Russian Federation,Oranges,2011,110
+Russian Federation,Oranges,2012,108
+Russian Federation,Oranges,2013,109
+Russian Federation,Oranges,2014,113
+Russian Federation,Oranges,2015,81
+Russian Federation,Oranges,2016,62
+Russian Federation,Oranges,2017,84
+Russian Federation,Oranges,2018,83
+Russian Federation,Oranges,2019,75
+Russian Federation,Oranges,2020,67
+Rwanda,Bananas,2010,2000000
+Rwanda,Bananas,2011,2150000
+Rwanda,Bananas,2012,2550000
+Rwanda,Bananas,2013,2850000
+Rwanda,Bananas,2014,1039020
+Rwanda,Bananas,2015,1097304
+Rwanda,Bananas,2016,1127643
+Rwanda,Bananas,2017,1739007
+Rwanda,Bananas,2018,1010000
+Rwanda,Bananas,2019,1046993
+Rwanda,Bananas,2020,1118841
+Rwanda,Oranges,2010,5000
+Rwanda,Oranges,2011,4674
+Rwanda,Oranges,2012,5600
+Rwanda,Oranges,2013,4188
+Rwanda,Oranges,2014,3758
+Rwanda,Oranges,2015,3722
+Rwanda,Oranges,2016,3487
+Rwanda,Oranges,2017,2800
+Rwanda,Oranges,2018,2898
+Rwanda,Oranges,2019,4229
+Rwanda,Oranges,2020,4235
+Saint Lucia,Bananas,2010,21702
+Saint Lucia,Bananas,2011,22554
+Saint Lucia,Bananas,2012,14011
+Saint Lucia,Bananas,2013,17764
+Saint Lucia,Bananas,2014,18917
+Saint Lucia,Bananas,2015,17461
+Saint Lucia,Bananas,2016,15869
+Saint Lucia,Bananas,2017,17527
+Saint Lucia,Bananas,2018,19143
+Saint Lucia,Bananas,2019,16182
+Saint Lucia,Bananas,2020,9651
+Saint Lucia,Oranges,2010,635
+Saint Lucia,Oranges,2011,617
+Saint Lucia,Oranges,2012,601
+Saint Lucia,Oranges,2013,429
+Saint Lucia,Oranges,2014,457
+Saint Lucia,Oranges,2015,453
+Saint Lucia,Oranges,2016,422
+Saint Lucia,Oranges,2017,297
+Saint Lucia,Oranges,2018,310
+Saint Lucia,Oranges,2019,388
+Saint Lucia,Oranges,2020,185
+Saint Vincent and the Grenadines,Apples,2010,1058
+Saint Vincent and the Grenadines,Apples,2011,1210
+Saint Vincent and the Grenadines,Apples,2012,1196
+Saint Vincent and the Grenadines,Apples,2013,1149
+Saint Vincent and the Grenadines,Apples,2014,990
+Saint Vincent and the Grenadines,Apples,2015,1021
+Saint Vincent and the Grenadines,Apples,2016,1046
+Saint Vincent and the Grenadines,Apples,2017,1774
+Saint Vincent and the Grenadines,Apples,2018,1826
+Saint Vincent and the Grenadines,Apples,2019,1482
+Saint Vincent and the Grenadines,Apples,2020,1500
+Saint Vincent and the Grenadines,Bananas,2010,55170
+Saint Vincent and the Grenadines,Bananas,2011,59309
+Saint Vincent and the Grenadines,Bananas,2012,59688
+Saint Vincent and the Grenadines,Bananas,2013,57512
+Saint Vincent and the Grenadines,Bananas,2014,62169
+Saint Vincent and the Grenadines,Bananas,2015,60325
+Saint Vincent and the Grenadines,Bananas,2016,58269
+Saint Vincent and the Grenadines,Bananas,2017,58820
+Saint Vincent and the Grenadines,Bananas,2018,59923
+Saint Vincent and the Grenadines,Bananas,2019,60462
+Saint Vincent and the Grenadines,Bananas,2020,61001
+Saint Vincent and the Grenadines,Oranges,2010,950
+Saint Vincent and the Grenadines,Oranges,2011,1350
+Saint Vincent and the Grenadines,Oranges,2012,1325
+Saint Vincent and the Grenadines,Oranges,2013,1239
+Saint Vincent and the Grenadines,Oranges,2014,1097
+Saint Vincent and the Grenadines,Oranges,2015,953
+Saint Vincent and the Grenadines,Oranges,2016,875
+Saint Vincent and the Grenadines,Oranges,2017,901
+Saint Vincent and the Grenadines,Oranges,2018,1001
+Saint Vincent and the Grenadines,Oranges,2019,1045
+Saint Vincent and the Grenadines,Oranges,2020,670
+Samoa,Bananas,2010,24854
+Samoa,Bananas,2011,24449
+Samoa,Bananas,2012,24039
+Samoa,Bananas,2013,23581
+Samoa,Bananas,2014,22823
+Samoa,Bananas,2015,21914
+Samoa,Bananas,2016,22091
+Samoa,Bananas,2017,22444
+Samoa,Bananas,2018,22717
+Samoa,Bananas,2019,23000
+Samoa,Bananas,2020,23404
+Sao Tome and Principe,Bananas,2010,36877
+Sao Tome and Principe,Bananas,2011,40422
+Sao Tome and Principe,Bananas,2012,40542
+Sao Tome and Principe,Bananas,2013,41120
+Sao Tome and Principe,Bananas,2014,30363
+Sao Tome and Principe,Bananas,2015,18173
+Sao Tome and Principe,Bananas,2016,6972
+Sao Tome and Principe,Bananas,2017,6624
+Sao Tome and Principe,Bananas,2018,6293
+Sao Tome and Principe,Bananas,2019,5481
+Sao Tome and Principe,Bananas,2020,5078
+Senegal,Bananas,2010,40000
+Senegal,Bananas,2011,30000
+Senegal,Bananas,2012,35000
+Senegal,Bananas,2013,35000
+Senegal,Bananas,2014,35575
+Senegal,Bananas,2015,36500
+Senegal,Bananas,2016,37000
+Senegal,Bananas,2017,37000
+Senegal,Bananas,2018,30000
+Senegal,Bananas,2019,31422
+Senegal,Bananas,2020,36500
+Senegal,Oranges,2010,40000
+Senegal,Oranges,2011,50000
+Senegal,Oranges,2012,45000
+Senegal,Oranges,2013,40000
+Senegal,Oranges,2014,50000
+Senegal,Oranges,2015,50000
+Senegal,Oranges,2016,48104
+Senegal,Oranges,2017,50000
+Senegal,Oranges,2018,45000
+Senegal,Oranges,2019,48500
+Senegal,Oranges,2020,56800
+Serbia,Apples,2010,239945
+Serbia,Apples,2011,265576
+Serbia,Apples,2012,243987
+Serbia,Apples,2013,458409
+Serbia,Apples,2014,336313
+Serbia,Apples,2015,431759
+Serbia,Apples,2016,400473
+Serbia,Apples,2017,378644
+Serbia,Apples,2018,460404
+Serbia,Apples,2019,499578
+Serbia,Apples,2020,489426
+Seychelles,Bananas,2010,1780
+Seychelles,Bananas,2011,1831
+Seychelles,Bananas,2012,2000
+Seychelles,Bananas,2013,2006
+Seychelles,Bananas,2014,1983
+Seychelles,Bananas,2015,1980
+Seychelles,Bananas,2016,1980
+Seychelles,Bananas,2017,1992
+Seychelles,Bananas,2018,1987
+Seychelles,Bananas,2019,1991
+Seychelles,Bananas,2020,1995
+Seychelles,Oranges,2010,40
+Seychelles,Oranges,2011,38
+Seychelles,Oranges,2012,39
+Seychelles,Oranges,2013,42
+Seychelles,Oranges,2014,43
+Seychelles,Oranges,2015,44
+Seychelles,Oranges,2016,44
+Seychelles,Oranges,2017,43
+Seychelles,Oranges,2018,44
+Seychelles,Oranges,2019,44
+Seychelles,Oranges,2020,44
+Singapore,Bananas,2010,
+Singapore,Bananas,2011,
+Singapore,Bananas,2012,
+Singapore,Bananas,2013,
+Singapore,Bananas,2014,
+Singapore,Bananas,2015,
+Singapore,Bananas,2016,
+Singapore,Bananas,2017,
+Singapore,Bananas,2018,
+Singapore,Bananas,2019,
+Singapore,Bananas,2020,
+Slovakia,Apples,2010,34215
+Slovakia,Apples,2011,31355
+Slovakia,Apples,2012,44481
+Slovakia,Apples,2013,45949
+Slovakia,Apples,2014,48494
+Slovakia,Apples,2015,46250
+Slovakia,Apples,2016,20722
+Slovakia,Apples,2017,32478
+Slovakia,Apples,2018,43930
+Slovakia,Apples,2019,35190
+Slovakia,Apples,2020,28430
+Slovakia,Bananas,2018,0
+Slovakia,Bananas,2019,0
+Slovakia,Bananas,2020,0
+Slovakia,Oranges,2018,0
+Slovakia,Oranges,2019,0
+Slovakia,Oranges,2020,0
+Slovenia,Apples,2010,117569
+Slovenia,Apples,2011,105355
+Slovenia,Apples,2012,55300
+Slovenia,Apples,2013,92449
+Slovenia,Apples,2014,99834
+Slovenia,Apples,2015,115091
+Slovenia,Apples,2016,59573
+Slovenia,Apples,2017,80000
+Slovenia,Apples,2018,86590
+Slovenia,Apples,2019,54270
+Slovenia,Apples,2020,66670
+Slovenia,Bananas,2018,0
+Slovenia,Bananas,2019,0
+Slovenia,Bananas,2020,0
+Slovenia,Oranges,2018,0
+Slovenia,Oranges,2019,0
+Slovenia,Oranges,2020,0
+Solomon Islands,Bananas,2010,313
+Solomon Islands,Bananas,2011,308
+Solomon Islands,Bananas,2012,255
+Solomon Islands,Bananas,2013,301
+Solomon Islands,Bananas,2014,313
+Solomon Islands,Bananas,2015,313
+Solomon Islands,Bananas,2016,315
+Solomon Islands,Bananas,2017,317
+Solomon Islands,Bananas,2018,316
+Solomon Islands,Bananas,2019,317
+Solomon Islands,Bananas,2020,318
+Somalia,Bananas,2010,28089
+Somalia,Bananas,2011,26906
+Somalia,Bananas,2012,25724
+Somalia,Bananas,2013,24542
+Somalia,Bananas,2014,23339
+Somalia,Bananas,2015,22342
+Somalia,Bananas,2016,23407
+Somalia,Bananas,2017,23029
+Somalia,Bananas,2018,22926
+Somalia,Bananas,2019,23121
+Somalia,Bananas,2020,23025
+Somalia,Oranges,2010,8500
+Somalia,Oranges,2011,9582
+Somalia,Oranges,2012,11000
+Somalia,Oranges,2013,11000
+Somalia,Oranges,2014,10358
+Somalia,Oranges,2015,10541
+Somalia,Oranges,2016,10630
+Somalia,Oranges,2017,10975
+Somalia,Oranges,2018,11045
+Somalia,Oranges,2019,10883
+Somalia,Oranges,2020,10968
+South Africa,Apples,2010,724232
+South Africa,Apples,2011,781124
+South Africa,Apples,2012,795758
+South Africa,Apples,2013,903843
+South Africa,Apples,2014,777741
+South Africa,Apples,2015,934375
+South Africa,Apples,2016,916143
+South Africa,Apples,2017,929028
+South Africa,Apples,2018,829636
+South Africa,Apples,2019,891979
+South Africa,Apples,2020,992975
+South Africa,Bananas,2010,399898
+South Africa,Bananas,2011,384773
+South Africa,Bananas,2012,386680
+South Africa,Bananas,2013,419564
+South Africa,Bananas,2014,456952
+South Africa,Bananas,2015,435252
+South Africa,Bananas,2016,310070
+South Africa,Bananas,2017,335208
+South Africa,Bananas,2018,444879
+South Africa,Bananas,2019,405135
+South Africa,Bananas,2020,402025
+South Africa,Oranges,2010,1414585
+South Africa,Oranges,2011,1495566
+South Africa,Oranges,2012,1644434
+South Africa,Oranges,2013,1810559
+South Africa,Oranges,2014,1796805
+South Africa,Oranges,2015,1762579
+South Africa,Oranges,2016,1366032
+South Africa,Oranges,2017,1459757
+South Africa,Oranges,2018,1775760
+South Africa,Oranges,2019,1686455
+South Africa,Oranges,2020,1555132
+South Sudan,Bananas,2012,
+South Sudan,Bananas,2013,
+South Sudan,Bananas,2014,
+South Sudan,Bananas,2015,
+South Sudan,Bananas,2016,
+South Sudan,Bananas,2017,
+South Sudan,Bananas,2018,
+South Sudan,Bananas,2019,
+South Sudan,Bananas,2020,
+South Sudan,Oranges,2012,
+South Sudan,Oranges,2013,
+South Sudan,Oranges,2014,
+South Sudan,Oranges,2015,
+South Sudan,Oranges,2016,
+South Sudan,Oranges,2017,
+South Sudan,Oranges,2018,
+South Sudan,Oranges,2019,
+South Sudan,Oranges,2020,
+Spain,Apples,2010,645918
+Spain,Apples,2011,670264
+Spain,Apples,2012,481223
+Spain,Apples,2013,546400
+Spain,Apples,2014,620823
+Spain,Apples,2015,593592
+Spain,Apples,2016,621164
+Spain,Apples,2017,587034
+Spain,Apples,2018,562960
+Spain,Apples,2019,638840
+Spain,Apples,2020,522100
+Spain,Bananas,2010,396589
+Spain,Bananas,2011,346500
+Spain,Bananas,2012,371211
+Spain,Bananas,2013,361000
+Spain,Bananas,2014,365268
+Spain,Bananas,2015,381983
+Spain,Bananas,2016,408716
+Spain,Bananas,2017,421313
+Spain,Bananas,2018,386230
+Spain,Bananas,2019,398720
+Spain,Bananas,2020,420140
+Spain,Oranges,2010,3114800
+Spain,Oranges,2011,2818888
+Spain,Oranges,2012,2942280
+Spain,Oranges,2013,3394100
+Spain,Oranges,2014,3494471
+Spain,Oranges,2015,2935370
+Spain,Oranges,2016,3673915
+Spain,Oranges,2017,3357163
+Spain,Oranges,2018,3639850
+Spain,Oranges,2019,3226870
+Spain,Oranges,2020,3343960
+Sri Lanka,Oranges,2010,7150
+Sri Lanka,Oranges,2011,7230
+Sri Lanka,Oranges,2012,6939
+Sri Lanka,Oranges,2013,7325
+Sri Lanka,Oranges,2014,7575
+Sri Lanka,Oranges,2015,7460
+Sri Lanka,Oranges,2016,7120
+Sri Lanka,Oranges,2017,7049
+Sri Lanka,Oranges,2018,8518
+Sri Lanka,Oranges,2019,8882
+Sri Lanka,Oranges,2020,9180
+Sudan,Bananas,2012,750000
+Sudan,Bananas,2013,757500
+Sudan,Bananas,2014,909000
+Sudan,Bananas,2015,910000
+Sudan,Bananas,2016,910110
+Sudan,Bananas,2017,928300
+Sudan,Bananas,2018,913217
+Sudan,Bananas,2019,918562
+Sudan,Bananas,2020,923938
+Sudan,Oranges,2012,138000
+Sudan,Oranges,2013,139380
+Sudan,Oranges,2014,150000
+Sudan,Oranges,2015,152000
+Sudan,Oranges,2016,152330
+Sudan,Oranges,2017,155300
+Sudan,Oranges,2018,159959
+Sudan,Oranges,2019,166357
+Sudan,Oranges,2020,173012
+Sudan (former),Bananas,2010,684000
+Sudan (former),Bananas,2011,687000
+Sudan (former),Oranges,2010,133500
+Sudan (former),Oranges,2011,134150
+Suriname,Bananas,2010,94272
+Suriname,Bananas,2011,85017
+Suriname,Bananas,2012,92391
+Suriname,Bananas,2013,85584
+Suriname,Bananas,2014,77014
+Suriname,Bananas,2015,68991
+Suriname,Bananas,2016,61073
+Suriname,Bananas,2017,62887
+Suriname,Bananas,2018,48835
+Suriname,Bananas,2019,48435
+Suriname,Bananas,2020,48461
+Suriname,Oranges,2010,15138
+Suriname,Oranges,2011,16118
+Suriname,Oranges,2012,15566
+Suriname,Oranges,2013,17502
+Suriname,Oranges,2014,14599
+Suriname,Oranges,2015,10455
+Suriname,Oranges,2016,10340
+Suriname,Oranges,2017,19145
+Suriname,Oranges,2018,19131
+Suriname,Oranges,2019,19061
+Suriname,Oranges,2020,18244
+Sweden,Apples,2010,23500
+Sweden,Apples,2011,20684
+Sweden,Apples,2012,23390
+Sweden,Apples,2013,27400
+Sweden,Apples,2014,24580
+Sweden,Apples,2015,25350
+Sweden,Apples,2016,26280
+Sweden,Apples,2017,22130
+Sweden,Apples,2018,30610
+Sweden,Apples,2019,22210
+Sweden,Apples,2020,29360
+Sweden,Bananas,2018,0
+Sweden,Bananas,2019,0
+Sweden,Bananas,2020,0
+Sweden,Oranges,2018,0
+Sweden,Oranges,2019,0
+Sweden,Oranges,2020,0
+Switzerland,Apples,2010,201641
+Switzerland,Apples,2011,327500
+Switzerland,Apples,2012,233556
+Switzerland,Apples,2013,210129
+Switzerland,Apples,2014,231343
+Switzerland,Apples,2015,214250
+Switzerland,Apples,2016,227300
+Switzerland,Apples,2017,145864
+Switzerland,Apples,2018,296778
+Switzerland,Apples,2019,191435
+Switzerland,Apples,2020,192443
+Syrian Arab Republic,Apples,2010,393146
+Syrian Arab Republic,Apples,2011,307760
+Syrian Arab Republic,Apples,2012,349166
+Syrian Arab Republic,Apples,2013,256614
+Syrian Arab Republic,Apples,2014,397858
+Syrian Arab Republic,Apples,2015,307031
+Syrian Arab Republic,Apples,2016,451585
+Syrian Arab Republic,Apples,2017,308985
+Syrian Arab Republic,Apples,2018,476635
+Syrian Arab Republic,Apples,2019,286564
+Syrian Arab Republic,Apples,2020,267823
+Syrian Arab Republic,Bananas,2010,189
+Syrian Arab Republic,Bananas,2011,183
+Syrian Arab Republic,Bananas,2012,249
+Syrian Arab Republic,Bananas,2013,147
+Syrian Arab Republic,Bananas,2014,152
+Syrian Arab Republic,Bananas,2015,170
+Syrian Arab Republic,Bananas,2016,186
+Syrian Arab Republic,Bananas,2017,205
+Syrian Arab Republic,Bananas,2018,214
+Syrian Arab Republic,Bananas,2019,121
+Syrian Arab Republic,Bananas,2020,145
+Syrian Arab Republic,Oranges,2010,668900
+Syrian Arab Republic,Oranges,2011,733960
+Syrian Arab Republic,Oranges,2012,542207
+Syrian Arab Republic,Oranges,2013,792227
+Syrian Arab Republic,Oranges,2014,693046
+Syrian Arab Republic,Oranges,2015,829553
+Syrian Arab Republic,Oranges,2016,724836
+Syrian Arab Republic,Oranges,2017,722236
+Syrian Arab Republic,Oranges,2018,717003
+Syrian Arab Republic,Oranges,2019,706324
+Syrian Arab Republic,Oranges,2020,502966
+Tajikistan,Apples,2010,156000
+Tajikistan,Apples,2011,183300
+Tajikistan,Apples,2012,218300
+Tajikistan,Apples,2013,227000
+Tajikistan,Apples,2014,236000
+Tajikistan,Apples,2015,230387
+Tajikistan,Apples,2016,230647
+Tajikistan,Apples,2017,234039
+Tajikistan,Apples,2018,238837
+Tajikistan,Apples,2019,234508
+Tajikistan,Apples,2020,235795
+Tajikistan,Oranges,2010,1100
+Tajikistan,Oranges,2011,1300
+Tajikistan,Oranges,2012,1600
+Tajikistan,Oranges,2013,1700
+Tajikistan,Oranges,2014,1800
+Tajikistan,Oranges,2015,1778
+Tajikistan,Oranges,2016,1759
+Tajikistan,Oranges,2017,1779
+Tajikistan,Oranges,2018,1772
+Tajikistan,Oranges,2019,1770
+Tajikistan,Oranges,2020,1774
+Thailand,Bananas,2010,1584898
+Thailand,Bananas,2011,1378338
+Thailand,Bananas,2012,1020458
+Thailand,Bananas,2013,1031351
+Thailand,Bananas,2014,1398202
+Thailand,Bananas,2015,1032542
+Thailand,Bananas,2016,1118171
+Thailand,Bananas,2017,1114280
+Thailand,Bananas,2018,1265420
+Thailand,Bananas,2019,1297590
+Thailand,Bananas,2020,1360670
+Thailand,Oranges,2010,414464
+Thailand,Oranges,2011,425000
+Thailand,Oranges,2012,450000
+Thailand,Oranges,2013,460000
+Thailand,Oranges,2014,470985
+Thailand,Oranges,2015,478330
+Thailand,Oranges,2016,489729
+Thailand,Oranges,2017,479681
+Thailand,Oranges,2018,482580
+Thailand,Oranges,2019,483997
+Thailand,Oranges,2020,482086
+Timor-Leste,Bananas,2010,710
+Timor-Leste,Bananas,2011,468
+Timor-Leste,Bananas,2012,497
+Timor-Leste,Bananas,2013,516
+Timor-Leste,Bananas,2014,407
+Timor-Leste,Bananas,2015,430
+Timor-Leste,Bananas,2016,451
+Timor-Leste,Bananas,2017,429
+Timor-Leste,Bananas,2018,436
+Timor-Leste,Bananas,2019,439
+Timor-Leste,Bananas,2020,435
+Timor-Leste,Oranges,2010,1689
+Timor-Leste,Oranges,2011,1657
+Timor-Leste,Oranges,2012,1696
+Timor-Leste,Oranges,2013,1739
+Timor-Leste,Oranges,2014,1764
+Timor-Leste,Oranges,2015,1914
+Timor-Leste,Oranges,2016,1805
+Timor-Leste,Oranges,2017,1828
+Timor-Leste,Oranges,2018,1849
+Timor-Leste,Oranges,2019,1827
+Timor-Leste,Oranges,2020,1835
+Togo,Bananas,2010,21000
+Togo,Bananas,2011,22000
+Togo,Bananas,2012,23000
+Togo,Bananas,2013,23923
+Togo,Bananas,2014,24858
+Togo,Bananas,2015,24212
+Togo,Bananas,2016,24339
+Togo,Bananas,2017,24470
+Togo,Bananas,2018,24340
+Togo,Bananas,2019,24383
+Togo,Bananas,2020,24398
+Togo,Oranges,2010,13800
+Togo,Oranges,2011,14000
+Togo,Oranges,2012,14500
+Togo,Oranges,2013,14044
+Togo,Oranges,2014,14118
+Togo,Oranges,2015,14929
+Togo,Oranges,2016,14716
+Togo,Oranges,2017,14858
+Togo,Oranges,2018,15044
+Togo,Oranges,2019,14873
+Togo,Oranges,2020,14925
+Tokelau,Bananas,2010,21
+Tokelau,Bananas,2011,14
+Tokelau,Bananas,2012,15
+Tokelau,Bananas,2013,15
+Tokelau,Bananas,2014,15
+Tokelau,Bananas,2015,16
+Tokelau,Bananas,2016,16
+Tokelau,Bananas,2017,16
+Tokelau,Bananas,2018,16
+Tokelau,Bananas,2019,16
+Tokelau,Bananas,2020,16
+Tonga,Bananas,2010,823
+Tonga,Bananas,2011,818
+Tonga,Bananas,2012,825
+Tonga,Bananas,2013,801
+Tonga,Bananas,2014,810
+Tonga,Bananas,2015,852
+Tonga,Bananas,2016,821
+Tonga,Bananas,2017,849
+Tonga,Bananas,2018,860
+Tonga,Bananas,2019,844
+Tonga,Bananas,2020,851
+Tonga,Oranges,2010,910
+Tonga,Oranges,2011,875
+Tonga,Oranges,2012,750
+Tonga,Oranges,2013,839
+Tonga,Oranges,2014,895
+Tonga,Oranges,2015,868
+Tonga,Oranges,2016,859
+Tonga,Oranges,2017,882
+Tonga,Oranges,2018,865
+Tonga,Oranges,2019,863
+Tonga,Oranges,2020,860
+Trinidad and Tobago,Bananas,2010,3500
+Trinidad and Tobago,Bananas,2011,3500
+Trinidad and Tobago,Bananas,2012,3600
+Trinidad and Tobago,Bananas,2013,3789
+Trinidad and Tobago,Bananas,2014,3593
+Trinidad and Tobago,Bananas,2015,3204
+Trinidad and Tobago,Bananas,2016,3529
+Trinidad and Tobago,Bananas,2017,3442
+Trinidad and Tobago,Bananas,2018,3392
+Trinidad and Tobago,Bananas,2019,3454
+Trinidad and Tobago,Bananas,2020,3429
+Trinidad and Tobago,Oranges,2010,3233
+Trinidad and Tobago,Oranges,2011,2850
+Trinidad and Tobago,Oranges,2012,2725
+Trinidad and Tobago,Oranges,2013,2695
+Trinidad and Tobago,Oranges,2014,4000
+Trinidad and Tobago,Oranges,2015,6000
+Trinidad and Tobago,Oranges,2016,6000
+Trinidad and Tobago,Oranges,2017,6000
+Trinidad and Tobago,Oranges,2018,5000
+Trinidad and Tobago,Oranges,2019,3922
+Trinidad and Tobago,Oranges,2020,3967
+Tunisia,Apples,2010,126000
+Tunisia,Apples,2011,128000
+Tunisia,Apples,2012,111000
+Tunisia,Apples,2013,120000
+Tunisia,Apples,2014,121500
+Tunisia,Apples,2015,90000
+Tunisia,Apples,2016,126000
+Tunisia,Apples,2017,98300
+Tunisia,Apples,2018,140000
+Tunisia,Apples,2019,116000
+Tunisia,Apples,2020,153000
+Tunisia,Oranges,2010,136700
+Tunisia,Oranges,2011,139400
+Tunisia,Oranges,2012,145000
+Tunisia,Oranges,2013,130000
+Tunisia,Oranges,2014,121500
+Tunisia,Oranges,2015,146500
+Tunisia,Oranges,2016,111700
+Tunisia,Oranges,2017,186900
+Tunisia,Oranges,2018,346000
+Tunisia,Oranges,2019,440000
+Tunisia,Oranges,2020,366000
+Türkiye,Apples,2010,2600000
+Türkiye,Apples,2011,2680075
+Türkiye,Apples,2012,2888985
+Türkiye,Apples,2013,3128450
+Türkiye,Apples,2014,2480444
+Türkiye,Apples,2015,2569759
+Türkiye,Apples,2016,2925828
+Türkiye,Apples,2017,3032164
+Türkiye,Apples,2018,3625960
+Türkiye,Apples,2019,3618752
+Türkiye,Apples,2020,4300486
+Türkiye,Bananas,2010,210178
+Türkiye,Bananas,2011,206501
+Türkiye,Bananas,2012,207727
+Türkiye,Bananas,2013,215472
+Türkiye,Bananas,2014,251994
+Türkiye,Bananas,2015,270500
+Türkiye,Bananas,2016,305926
+Türkiye,Bananas,2017,369009
+Türkiye,Bananas,2018,498888
+Türkiye,Bananas,2019,548323
+Türkiye,Bananas,2020,728133
+Türkiye,Oranges,2010,1710500
+Türkiye,Oranges,2011,1730146
+Türkiye,Oranges,2012,1661111
+Türkiye,Oranges,2013,1781258
+Türkiye,Oranges,2014,1779675
+Türkiye,Oranges,2015,1816798
+Türkiye,Oranges,2016,1850000
+Türkiye,Oranges,2017,1950000
+Türkiye,Oranges,2018,1900000
+Türkiye,Oranges,2019,1700000
+Türkiye,Oranges,2020,1333975
+Turkmenistan,Apples,2010,63000
+Turkmenistan,Apples,2011,62800
+Turkmenistan,Apples,2012,63300
+Turkmenistan,Apples,2013,63200
+Turkmenistan,Apples,2014,63100
+Turkmenistan,Apples,2015,63200
+Turkmenistan,Apples,2016,63200
+Turkmenistan,Apples,2017,63200
+Turkmenistan,Apples,2018,64018
+Turkmenistan,Apples,2019,66380
+Turkmenistan,Apples,2020,66257
+Tuvalu,Bananas,2010,277
+Tuvalu,Bananas,2011,277
+Tuvalu,Bananas,2012,270
+Tuvalu,Bananas,2013,277
+Tuvalu,Bananas,2014,280
+Tuvalu,Bananas,2015,284
+Tuvalu,Bananas,2016,285
+Tuvalu,Bananas,2017,288
+Tuvalu,Bananas,2018,287
+Tuvalu,Bananas,2019,287
+Tuvalu,Bananas,2020,288
+Uganda,Bananas,2010,
+Uganda,Bananas,2011,
+Uganda,Bananas,2012,
+Uganda,Bananas,2013,
+Uganda,Bananas,2014,
+Uganda,Bananas,2015,
+Uganda,Bananas,2016,
+Uganda,Bananas,2017,
+Uganda,Bananas,2018,
+Uganda,Bananas,2019,
+Uganda,Bananas,2020,
+Ukraine,Apples,2010,897000
+Ukraine,Apples,2011,954100
+Ukraine,Apples,2012,1126800
+Ukraine,Apples,2013,1211400
+Ukraine,Apples,2014,1085350
+Ukraine,Apples,2015,1179570
+Ukraine,Apples,2016,1099240
+Ukraine,Apples,2017,1076180
+Ukraine,Apples,2018,1462360
+Ukraine,Apples,2019,1153970
+Ukraine,Apples,2020,1114570
+United Arab Emirates,Bananas,2010,187
+United Arab Emirates,Bananas,2011,188
+United Arab Emirates,Bananas,2012,189
+United Arab Emirates,Bananas,2013,191
+United Arab Emirates,Bananas,2014,194
+United Arab Emirates,Bananas,2015,197
+United Arab Emirates,Bananas,2016,210
+United Arab Emirates,Bananas,2017,224
+United Arab Emirates,Bananas,2018,235
+United Arab Emirates,Bananas,2019,278
+United Arab Emirates,Bananas,2020,254
+United Kingdom of Great Britain and Northern Ireland,Apples,2010,235450
+United Kingdom of Great Britain and Northern Ireland,Apples,2011,239890
+United Kingdom of Great Britain and Northern Ireland,Apples,2012,203550
+United Kingdom of Great Britain and Northern Ireland,Apples,2013,398500
+United Kingdom of Great Britain and Northern Ireland,Apples,2014,451400
+United Kingdom of Great Britain and Northern Ireland,Apples,2015,459600
+United Kingdom of Great Britain and Northern Ireland,Apples,2016,481100
+United Kingdom of Great Britain and Northern Ireland,Apples,2017,535300
+United Kingdom of Great Britain and Northern Ireland,Apples,2018,548721
+United Kingdom of Great Britain and Northern Ireland,Apples,2019,609180
+United Kingdom of Great Britain and Northern Ireland,Apples,2020,523331
+United Republic of Tanzania,Bananas,2010,3155710
+United Republic of Tanzania,Bananas,2011,3143835
+United Republic of Tanzania,Bananas,2012,2524740
+United Republic of Tanzania,Bananas,2013,2678680
+United Republic of Tanzania,Bananas,2014,3192030
+United Republic of Tanzania,Bananas,2015,3584532
+United Republic of Tanzania,Bananas,2016,3164911
+United Republic of Tanzania,Bananas,2017,2533674
+United Republic of Tanzania,Bananas,2018,3395499
+United Republic of Tanzania,Bananas,2019,3406936
+United Republic of Tanzania,Bananas,2020,3419436
+United Republic of Tanzania,Oranges,2010,240000
+United Republic of Tanzania,Oranges,2011,290000
+United Republic of Tanzania,Oranges,2012,315000
+United Republic of Tanzania,Oranges,2013,360024
+United Republic of Tanzania,Oranges,2014,385822
+United Republic of Tanzania,Oranges,2015,411716
+United Republic of Tanzania,Oranges,2016,432466
+United Republic of Tanzania,Oranges,2017,450000
+United Republic of Tanzania,Oranges,2018,465998
+United Republic of Tanzania,Oranges,2019,541402
+United Republic of Tanzania,Oranges,2020,497230
+United States of America,Apples,2010,4210290
+United States of America,Apples,2011,4281731
+United States of America,Apples,2012,4078839
+United States of America,Apples,2013,4731694
+United States of America,Apples,2014,5358740
+United States of America,Apples,2015,4556790
+United States of America,Apples,2016,5214040
+United States of America,Apples,2017,5240670
+United States of America,Apples,2018,4644790
+United States of America,Apples,2019,5028526
+United States of America,Apples,2020,4650684
+United States of America,Bananas,2010,8074
+United States of America,Bananas,2011,7893
+United States of America,Bananas,2012,7202
+United States of America,Bananas,2013,6622
+United States of America,Bananas,2014,6532
+United States of America,Bananas,2015,5443
+United States of America,Bananas,2016,3387
+United States of America,Bananas,2017,3020
+United States of America,Bananas,2018,3138
+United States of America,Bananas,2019,3372
+United States of America,Bananas,2020,2935
+United States of America,Oranges,2010,7477924
+United States of America,Oranges,2011,8078490
+United States of America,Oranges,2012,8268000
+United States of America,Oranges,2013,7500604
+United States of America,Oranges,2014,6139826
+United States of America,Oranges,2015,5763340
+United States of America,Oranges,2016,5522940
+United States of America,Oranges,2017,4615760
+United States of America,Oranges,2018,3535340
+United States of America,Oranges,2019,4832570
+United States of America,Oranges,2020,4766350
+Uruguay,Apples,2010,52226
+Uruguay,Apples,2011,73368
+Uruguay,Apples,2012,50270
+Uruguay,Apples,2013,45626
+Uruguay,Apples,2014,52762
+Uruguay,Apples,2015,55454
+Uruguay,Apples,2016,37675
+Uruguay,Apples,2017,45742
+Uruguay,Apples,2018,45881
+Uruguay,Apples,2019,42322
+Uruguay,Apples,2020,37039
+Uruguay,Oranges,2010,154211
+Uruguay,Oranges,2011,135180
+Uruguay,Oranges,2012,156700
+Uruguay,Oranges,2013,117535
+Uruguay,Oranges,2014,150617
+Uruguay,Oranges,2015,112042
+Uruguay,Oranges,2016,139100
+Uruguay,Oranges,2017,131972
+Uruguay,Oranges,2018,106864
+Uruguay,Oranges,2019,115688
+Uruguay,Oranges,2020,88537
+Uzbekistan,Apples,2010,712000
+Uzbekistan,Apples,2011,769363
+Uzbekistan,Apples,2012,829000
+Uzbekistan,Apples,2013,894000
+Uzbekistan,Apples,2014,965000
+Uzbekistan,Apples,2015,1060000
+Uzbekistan,Apples,2016,1441566
+Uzbekistan,Apples,2017,1028796
+Uzbekistan,Apples,2018,1130335
+Uzbekistan,Apples,2019,1124017
+Uzbekistan,Apples,2020,1148455
+Vanuatu,Bananas,2010,16000
+Vanuatu,Bananas,2011,15000
+Vanuatu,Bananas,2012,15500
+Vanuatu,Bananas,2013,15829
+Vanuatu,Bananas,2014,16040
+Vanuatu,Bananas,2015,16211
+Vanuatu,Bananas,2016,16368
+Vanuatu,Bananas,2017,16634
+Vanuatu,Bananas,2018,16708
+Vanuatu,Bananas,2019,16570
+Vanuatu,Bananas,2020,16638
+Venezuela (Bolivarian Republic of),Bananas,2010,375118
+Venezuela (Bolivarian Republic of),Bananas,2011,421136
+Venezuela (Bolivarian Republic of),Bananas,2012,424558
+Venezuela (Bolivarian Republic of),Bananas,2013,428438
+Venezuela (Bolivarian Republic of),Bananas,2014,486737
+Venezuela (Bolivarian Republic of),Bananas,2015,539097
+Venezuela (Bolivarian Republic of),Bananas,2016,559525
+Venezuela (Bolivarian Republic of),Bananas,2017,551494
+Venezuela (Bolivarian Republic of),Bananas,2018,636973
+Venezuela (Bolivarian Republic of),Bananas,2019,845199
+Venezuela (Bolivarian Republic of),Bananas,2020,884207
+Venezuela (Bolivarian Republic of),Oranges,2010,399748
+Venezuela (Bolivarian Republic of),Oranges,2011,475236
+Venezuela (Bolivarian Republic of),Oranges,2012,377323
+Venezuela (Bolivarian Republic of),Oranges,2013,378421
+Venezuela (Bolivarian Republic of),Oranges,2014,433092
+Venezuela (Bolivarian Republic of),Oranges,2015,407617
+Venezuela (Bolivarian Republic of),Oranges,2016,393042
+Venezuela (Bolivarian Republic of),Oranges,2017,374378
+Venezuela (Bolivarian Republic of),Oranges,2018,378832
+Venezuela (Bolivarian Republic of),Oranges,2019,365009
+Venezuela (Bolivarian Republic of),Oranges,2020,356651
+Viet Nam,Bananas,2010,1618231
+Viet Nam,Bananas,2011,1742424
+Viet Nam,Bananas,2012,1791937
+Viet Nam,Bananas,2013,1892523
+Viet Nam,Bananas,2014,1857641
+Viet Nam,Bananas,2015,1943337
+Viet Nam,Bananas,2016,1941935
+Viet Nam,Bananas,2017,2045352
+Viet Nam,Bananas,2018,2087275
+Viet Nam,Bananas,2019,2194247
+Viet Nam,Bananas,2020,2191379
+Viet Nam,Oranges,2010,729400
+Viet Nam,Oranges,2011,531334
+Viet Nam,Oranges,2012,520846
+Viet Nam,Oranges,2013,531958
+Viet Nam,Oranges,2014,589530
+Viet Nam,Oranges,2015,566115
+Viet Nam,Oranges,2016,636919
+Viet Nam,Oranges,2017,768319
+Viet Nam,Oranges,2018,855087
+Viet Nam,Oranges,2019,1017200
+Viet Nam,Oranges,2020,1149898
+Yemen,Apples,2010,20246
+Yemen,Apples,2011,20278
+Yemen,Apples,2012,20348
+Yemen,Apples,2013,20072
+Yemen,Apples,2014,20098
+Yemen,Apples,2015,17686
+Yemen,Apples,2016,17362
+Yemen,Apples,2017,17011
+Yemen,Apples,2018,16706
+Yemen,Apples,2019,21946
+Yemen,Apples,2020,23650
+Yemen,Bananas,2010,133352
+Yemen,Bananas,2011,129337
+Yemen,Bananas,2012,127468
+Yemen,Bananas,2013,126332
+Yemen,Bananas,2014,125040
+Yemen,Bananas,2015,119229
+Yemen,Bananas,2016,116732
+Yemen,Bananas,2017,116581
+Yemen,Bananas,2018,109242
+Yemen,Bananas,2019,116300
+Yemen,Bananas,2020,117786
+Yemen,Oranges,2010,120722
+Yemen,Oranges,2011,119997
+Yemen,Oranges,2012,120241
+Yemen,Oranges,2013,120094
+Yemen,Oranges,2014,120212
+Yemen,Oranges,2015,110595
+Yemen,Oranges,2016,107135
+Yemen,Oranges,2017,107019
+Yemen,Oranges,2018,103431
+Yemen,Oranges,2019,119084
+Yemen,Oranges,2020,127209
+Zambia,Bananas,2010,720
+Zambia,Bananas,2011,650
+Zambia,Bananas,2012,680
+Zambia,Bananas,2013,680
+Zambia,Bananas,2014,685
+Zambia,Bananas,2015,676
+Zambia,Bananas,2016,687
+Zambia,Bananas,2017,695
+Zambia,Bananas,2018,693
+Zambia,Bananas,2019,694
+Zambia,Bananas,2020,696
+Zambia,Oranges,2010,3500
+Zambia,Oranges,2011,3907
+Zambia,Oranges,2012,4400
+Zambia,Oranges,2013,4400
+Zambia,Oranges,2014,4241
+Zambia,Oranges,2015,3850
+Zambia,Oranges,2016,4164
+Zambia,Oranges,2017,4007
+Zambia,Oranges,2018,4066
+Zambia,Oranges,2019,4096
+Zambia,Oranges,2020,4125
+Zimbabwe,Apples,2010,6826
+Zimbabwe,Apples,2011,6761
+Zimbabwe,Apples,2012,6500
+Zimbabwe,Apples,2013,6500
+Zimbabwe,Apples,2014,6701
+Zimbabwe,Apples,2015,6660
+Zimbabwe,Apples,2016,6788
+Zimbabwe,Apples,2017,6787
+Zimbabwe,Apples,2018,6727
+Zimbabwe,Apples,2019,6725
+Zimbabwe,Apples,2020,6724
+Zimbabwe,Bananas,2010,97699
+Zimbabwe,Bananas,2011,98651
+Zimbabwe,Bananas,2012,100000
+Zimbabwe,Bananas,2013,100000
+Zimbabwe,Bananas,2014,150000
+Zimbabwe,Bananas,2015,218368
+Zimbabwe,Bananas,2016,229368
+Zimbabwe,Bananas,2017,220000
+Zimbabwe,Bananas,2018,180000
+Zimbabwe,Bananas,2019,143633
+Zimbabwe,Bananas,2020,196853
+Zimbabwe,Oranges,2010,79000
+Zimbabwe,Oranges,2011,90284
+Zimbabwe,Oranges,2012,98000
+Zimbabwe,Oranges,2013,98000
+Zimbabwe,Oranges,2014,97778
+Zimbabwe,Oranges,2015,96915
+Zimbabwe,Oranges,2016,96483
+Zimbabwe,Oranges,2017,97619
+Zimbabwe,Oranges,2018,97096
+Zimbabwe,Oranges,2019,97522
+Zimbabwe,Oranges,2020,97949
