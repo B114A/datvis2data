@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Banana Production (2010-2020)",
+  "width": 800,
+  "height": 400,
+  "projection": {"type": "equalEarth"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/JiazhouLiu/FIT3179/main/VegaLite/3_choropleth_map/js/ne_110m_admin_0_countries.topojson",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.NAME",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/B114A/datvis2data/main/Bananas_Countries.csv"
+        },
+        "key": "Area",
+        "fields": ["Value_Tonnes"]
+      }
+    }
+  ],
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {"field": "Value_Tonnes", "type": "quantitative"},
+    "tooltip": [
+      {"field": "properties.NAME", "type": "nominal", "title": "Area"},
+      {"field": "Value_Tonnes", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
